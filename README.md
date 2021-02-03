@@ -4,7 +4,7 @@
 
 You are Pokemon in the legendary Pokemon trainer Red's team! You have gone on many fantastic Pokemon adventures over the years. However once in a while Red would seemingly "freeze" in place for no reason. At first this was for just a few hours a day. However, as time went on, these "freezing" periods got longer and longer, until it seemed to just go on for years.
 
-Finally after being stuck in your pokeball for ages, you escape into a vastly changed world! Pokemon fear that the end is near as the great "Energizer's" power wanes. In an effort to conserve	power Pokemon do not fight. But with your awakening also heralds monstrous Legendary Pokemon called "The Game Sharks" with unfathomable power and a thrust for consuming energy. Only you posses the Hidden Machine's to stop The Game Sharks! Will you be able to stop them before all of Kanto is erased forever?
+Finally	after being stuck in your pokeball for ages, you escape into a vastly changed world! Pokemon fear that the end is near as the great "Energizer's" power wanes. In an effort to conserve	power Pokemon do not fight. But with your awakening also heralds monstrous Legendary Pokemon called "The Game Sharks" with unfathomable power and a thrust for consuming energy. Only you posses the Hidden Machine's to stop The Game Sharks! Will you be able to stop them before all of Kanto is erased forever?
 
 # Description	
 
@@ -54,3 +54,16 @@ If the attack is "Not Very Effective" it deals -1 harm.
 If the attack is "Not Effective" it can not deal harm or cause secondary effects.
 
 Moves and Passives added by an Attack are not effected by the effectiveness chart.
+
+## Items
+
+Pokemon can only hold one item at a time (including key items).
+
+* Standard Berry - Heals 1 harm and is consumed
+* Miracle Berry - Heals any status condition and is consumed
+* Gem - Deals 1 extra harm on hit and is consumed
+* Mail - A letter
+
+## Shiny Pokemon
+
+* During character creation roll 2d20s. If you roll 2 nat 20s, your Pokemon is shiny. Has no effect on stats, but could be mentioned by other Pokemon

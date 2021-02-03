@@ -1,9 +1,18 @@
-﻿
+
 ![normal](images/electric.png)
 
-## Description
+ |   Super                        | Not Very| Not                         |
+ |--------------------------------|---------|-----------------------------|
+ | ![](images/GroundIC_Big.webp)| ![](images/ElectricIC_Big.webp) ![](images/FlyingIC_Big.webp) | |
 
-You're electric typing and being party of the chosen Pokemon gives you clout in the church of The Energizer.
+
+### Description (Intel/Connections)
+
+You're electric typing and being party of the chosen Pokemon gives you clout in the church of The Energizer. Electric type pokemon can see into the fabric of the universe allowing them to have multiple venues of getting intel. They can also hack computers!
+
+Most of these moves require **Clever** or **Special**
+
+### Stats
 
 
  |      Ability                   | Score | Moves that use ability                         |
@@ -14,12 +23,15 @@ You're electric typing and being party of the chosen Pokemon gives you clout in 
  | **Tough** | | Normal Attacks <br/> Protect Someone |
  | **Special** | | Special Attacks <br/> |
 
+**Luck**
 
-<br/>
+Okay ☐☐☐☐☐☐☐ Doomed
 
- |   Super                        | Not Very| Not                         |
- |--------------------------------|---------|-----------------------------|
- | ![](images/GroundIC_Big.webp)| ![](images/ElectricIC_Big.webp) ![](images/FlyingIC_Big.webp) | |
+**Harm**
+
+Okay ☐☐☐|☐☐☐☐ Dying
+
+Unstable: ☐
 
 
 ### Ability
@@ -59,9 +71,9 @@ roll **+Clever**
 
 10+ You get an answer to your question
 
-7-9 You chose, you can't be helped, or you can but you owe the church a favor
+7-9: You chose, you can't be helped, or you can but you owe the church a favor
 
-6 your question causes some trouble
+Miss: your question causes some trouble
 
 
 ---
@@ -99,11 +111,11 @@ You can see into the fabric of existence it self and glimpse the essence of a Po
 
 **+Special**
 
-Critical Success: hold 3
+12+ hold 3
 
-Success: hold 2
+10+ hold 2
 
-Mixed: hold 1
+7-9: hold 1
 
 Miss: you cause some type of glitch, keeper takes a hard move
 
@@ -132,9 +144,9 @@ When you hack into a computer system, roll
 
 **+Clever**
 
-Success: pick two
+10+ pick two
 
-Mixed: pick one.
+7-9: pick one.
 
 * leave no traces.
 * learn something important.

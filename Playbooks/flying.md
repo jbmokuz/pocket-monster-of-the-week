@@ -1,17 +1,33 @@
 ![normal](images/flying.png) ![normal](images/dragon.png)
 
-### Description
+### Description (Mobility)
 
-Flying/Dragon Pokemon add a lot of maneuverability to a party. They can fly around scouting out an area and accessing places other Pokemon can’t. They also have the ability to escape some bad situations. They require ***Cool*** to perform there daring aerial acrobatics. There most damaging attacks are physical, requiring ***Tough***. There  ***Special*** moves are particularly good at hitting semi invulnerable Pokemon.
+**Flying/Dragon** Pokemon add a lot of maneuverability to a party. They can fly around scouting out an area and accessing places other Pokemon can’t. They also have the ability to escape some bad situations.
+
+They require ***Cool*** to perform there daring aerial acrobatics. There most damaging attacks are physical, requiring ***Tough***. There  ***Special*** moves are particularly good at hitting semi invulnerable Pokemon.
+
+**Flying** Pokemon can go back to places they visited. **Dragon** Pokemon
+
+### Stats
 
 
-|      Ability                   | Score | Moves that use ability                         |
-|--------------------------------|---------|-----------------------------|
-| **Cute**  | | Manipulate Someone <br/> |
-| **Cool**  | | Act Under Pressure <br/> Help Out |
-| **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
-| **Tough** | | Normal Attacks <br/> Protect Someone |
-| **Special** | | Special Attacks <br/> |
+ |      Ability                   | Score | Moves that use ability                         |
+ |--------------------------------|---------|-----------------------------|
+ | **Cute**  | | Manipulate Someone <br/> |
+ | **Cool**  | | Act Under Pressure <br/> Help Out |
+ | **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
+ | **Tough** | | Normal Attacks <br/> Protect Someone |
+ | **Special** | | Special Attacks <br/> |
+
+**Luck**
+
+Okay ☐☐☐☐☐☐☐ Doomed
+
+**Harm**
+
+Okay ☐☐☐|☐☐☐☐ Dying
+
+Unstable: ☐
 
 ** Flying **
 
@@ -31,7 +47,7 @@ Must take Dragon Dance
 
 ### Ability (Both flying and dragon)
 
-You can fly freely in reasonable conditions.
+**Flying** You can fly freely in reasonable conditions.
 
 ## Moves
 ---
@@ -52,9 +68,13 @@ Your opponent takes two moves against you. However for the first one you are sem
 
 ### Move
 
-You  can  go  instantly  to  anywhere  yout  quite  manage  it.  Either  you  are  all  separated, or you all appear in the wrong place
+You  can  go  instantly  to  anywhere  you've visited before, or to a pokemon you know well. When you carry other poekmon rool **+Special**
 
-On a miss disaster strikes
+10+ you all go where you wanted.
+
+7-9: you don' t  quite  manage  it.  Either  you  are  all  separated, or you all appear in the wrong place
+
+Miss: disaster strikes
 
 ---
 
@@ -68,7 +88,9 @@ Your next attack deals +1 harm
 
 ### Passive
 
-You have 8 boxes for harm. You always take only 1 harm for the first source of harm when at full health.
+Start by checking off 2 luck boxes. You can only ever have 5 unchecked luck boxes. At the end of each mystery, recover one luck box.
+
+You always take only 1 harm for the first source of harm when at full health. Even if the source would instantly kill you.
 
 ---
 
@@ -93,9 +115,9 @@ You can attempt to fly under any extreme condition (Assuming there is room to fl
 
 10+ You can fly freely as if conditions where ideal
 
-7-9 You fly with some trouble. Either you don't quite get to where you are going or it takes you a long time.
+7-9: You fly with some trouble. Either you don't quite get to where you are going or it takes you a long time.
 
-Miss you fail fantastically and end up somewhere you don’t want to be
+Miss: you fail fantastically and end up somewhere you don’t want to be
 
 ---
 
@@ -134,9 +156,9 @@ roll **+Cool**
 
 10+ hold 2
 
-7-9 hold 1
+7-9: hold 1
 
-miss - keeper holds a hard move
+Miss: keeper holds a hard move
 
 Spend the hold to
 
@@ -154,7 +176,7 @@ Spend the hold to
 If you hit with this attack, you may attack with this again in the same action. 
 Limit twice per action. Can not crit.
 
-## Efective
+## Effective
 
 |   Super                        | Not Very| Not                         |
 |--------------------------------|---------|-----------------------------|
@@ -185,9 +207,9 @@ You can attempt to gust away a monster in a giant typhoon
 
 Roll + tough
 
-10 + You gust away the monster to some where that is not here!
+10+ You gust away the monster to some where that is not here!
 
-7-9 it takes a while, the monster has a few turns to act
+7-9: it takes a while, the monster has a few turns to act
 
-miss - Something is keeping it here. That's bad...
+Miss: Something is keeping it here. That's bad...
 

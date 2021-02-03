@@ -1,8 +1,17 @@
-﻿![ghost](images/ghost.png)
+![ghost](images/ghost.png)
 
-### Description
+ |   Super                      | Not Very                                                 | Not                                                           |
+ |------------------------------|----------------------------------------------------------|---------------------------------------------------------------|
+ |  ![](images/GhostIC_Big.webp)|  ![](images/BugIC_Big.webp) ![](images/PoisonIC_Big.webp)|  ![](images/FightingIC_Big.webp) ![](images/NormalIC_Big.webp) ![](images/GroundIC_Big.webp)|
 
-Ghost type Pokemon are the seek around rouge type Pokemon. They can break into places, steal things and even go invisible. They require staying ***Cool*** to do a that seeking around. All of there attacks are physical, requiring ***Tough*** but posses no real need for ***Special***
+### Description (Rouge)
+
+Ghost type Pokemon are the seek around rouge type Pokemon. They can break into places, steal things and even go invisible. They also are immmune to a lot of attacks, but have a hard time hitting **Psychic** and **Normal** Pokemon with out taking **Poision Jab**.
+
+They require staying ***Cool*** to do a that seeking around. All of there attacks are physical, requiring ***Tough*** but posses no real need for ***Special***
+
+### Stats
+
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
@@ -12,12 +21,15 @@ Ghost type Pokemon are the seek around rouge type Pokemon. They can break into p
  | **Tough** | | Normal Attacks <br/> Protect Someone |
  | **Special** | | Special Attacks <br/> |
 
-### Effective
+**Luck**
 
- |   Super                      | Not Very                                                 | Not                                                           |
- |------------------------------|----------------------------------------------------------|---------------------------------------------------------------|
- |  ![](images/GhostIC_Big.webp)|  ![](images/BugIC_Big.webp) ![](images/PoisonIC_Big.webp)|  ![](images/FightingIC_Big.webp) ![](images/NormalIC_Big.webp)|
+Okay ☐☐☐☐☐☐☐ Doomed
 
+**Harm**
+
+Okay ☐☐☐|☐☐☐☐ Dying
+
+Unstable: ☐
 
 ### Ability
 
@@ -50,9 +62,9 @@ While invisible you can try to hide from someone/something.
 
 10+ You are undetectable.
 
-7 - 9 what you are hiding from can not see you, but is still alerted to your presence in some way
+7-9: what you are hiding from can not see you, but is still alerted to your presence in some way
 
-Miss what you are hiding from knows exactly where you are
+Miss: what you are hiding from knows exactly where you are
 
 ---
 
@@ -75,7 +87,9 @@ Miss what you are hiding from knows exactly where you are
 When you break into a secure location,
 roll.
 
-10+ pick three, 7-9 pick two.
+10+ hold three
+
+7-9: hold two.
 
 
 * you get in undetected
@@ -105,10 +119,10 @@ bypasses substitutes
 
 When you steal something small, roll.
 
-On a 10 or more, you get it and they didn’t
+10+ you get it and they didn’t
 notice you taking it.
 
-On a 7-9 either you don’t grab
+7-9: either you don’t grab
 it, you grab the wrong thing, or they remember you
 later: your choice.
 

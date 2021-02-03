@@ -1,6 +1,16 @@
-﻿![water](images/water.png)
+![water](images/water.png)
 
-### Description
+ |   Super                      | Not Very                                                 | Not                                                           |
+ |------------------------------|----------------------------------------------------------|---------------------------------------------------------------|
+ |  ![](images/ElectricIC_Big.webp) ![](images/GrassIC_Big.webp)| ![](images/FireIC_Big.webp) ![](images/IceIC_Big.webp) ![](images/WaterIC_Big.webp)| |
+
+### Description (Tinkerer)
+
+Water Pokemon can asses, use, and create items! They start with a pokebag allowing them to have up to 3 items at a time! They can also swim and breath underwater and heal status effects.
+
+They use **Clever** to navigate the open seas as well as identifying items
+### Stats
+
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
@@ -10,22 +20,26 @@
  | **Tough** | | Normal Attacks <br/> Protect Someone |
  | **Special** | | Special Attacks <br/> |
 
-### Effective
+**Luck**
 
+Okay ☐☐☐☐☐☐☐ Doomed
 
+**Harm**
 
- |   Super                      | Not Very                                                 | Not                                                           |
- |------------------------------|----------------------------------------------------------|---------------------------------------------------------------|
- |  ![](images/ElectricIC_Big.webp) ![](images/GrassIC_Big.webp)| ![](images/FireIC_Big.webp) ![](images/IceIC_Big.webp) ![](images/WaterIC_Big.webp)| |
+Okay ☐☐☐|☐☐☐☐ Dying
 
+Unstable: ☐
 
 ### Passive
 
 **Recycle:** Once per mystery, you may reuse a consumed item
 
-**Damp:** You are not effected by explosions
-
 **Create Water:** You create up to 10 gallons of clean water
+
+### Starting Item
+
+Pokebag (Does not count as a held item) - You can hold 2 extra items in your pokebag. As a move you may exchange an item in your pokebag with your held item.
+
 
 ##Moves
 
@@ -37,9 +51,9 @@
  | ----------- | ------------ | ----------- |
  | ![](images/WaterIC_Big.webp)| ![](images/special.png)| 1 Harm |
 
-Critical: you can deal 1 Harm to all enemies in a fight.
+10+: you can deal 1 Harm to all enemies in a fight.
 
-Hit: you can deal 1 Harm to all enemies in a fight. You also deal damage to your 2 closets allies.
+7-9: you can deal 1 Harm to all enemies in a fight. You also deal damage to your 2 closets allies.
 
 Miss: You only damage your two closets allies.
 
@@ -57,9 +71,9 @@ If you want to bring other Pokemon
 
 **+Clever**
 
-Success: You all go where you wanted.
+10+: You all go where you wanted.
 
-Mixed: You don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
+7-9: You don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
 
 Miss: disaster strikes.
 
@@ -71,7 +85,7 @@ Miss: disaster strikes.
  | ----------- | ------------ | ----------- |
  | ![](images/WaterIC_Big.webp)| ![](images/physical.png)| 1 Harm |
 
-You have +1 **Defence** (Max +2) until your next turn.
+You have +1 **Defense** (Max +2) until your next turn.
 
 ### Effective
 
@@ -111,6 +125,8 @@ When evaluating or identifying an item roll **+Clever**
 
 miss: You know nothing about the item
 
+Can be used to identify a hostile Pokemon's held item
+
 You also get +1 on rolls to **Manipulate Someone** when trying to mask the effect or value of an item
 
 ---
@@ -142,7 +158,7 @@ Power Belt: +1 Defense (Max +2).
 
 Razor Claw: When you crit you also take -1 harm.
 
-Safety Goggles: Grants the holder immunity to powder and spore moves and to damage from hail and sandstorm.
+Safety Goggles: Grants the holder immunity to powder and spore moves and immunity to damage from hail and sandstorm.
 
 Poke Doll: Consume item to escape instantly.
 

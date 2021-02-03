@@ -1,4 +1,18 @@
-﻿![normal](images/normal.png)
+![normal](images/normal.png)
+
+ |   Super                        | Not Very| Not                         |
+ |--------------------------------|---------|-----------------------------|
+ | ![](images/FightingIC_Big.webp)|         | ![](images/GhostIC_Big.webp)|
+
+
+### Description (Support)
+
+While at first glance, normal Pokemon are the model support type Pokemon. However they have the ability to pick a move from any playbook, giving them a little flavor of what ever they want to be! They also have no required move, giving them more flexibility.
+
+**Cute** is prominently featured in there abilities. Otherwise it depends on what move they happen to take from another playbook.
+
+### Stats
+
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
@@ -8,12 +22,17 @@
  | **Tough** | | Normal Attacks <br/> Protect Someone |
  | **Special** | | Special Attacks <br/> |
 
+**Luck**
 
- |   Super                        | Not Very| Not                         |
- |--------------------------------|---------|-----------------------------|
- | ![](images/FightingIC_Big.webp)|         | ![](images/GhostIC_Big.webp)|
+Okay ☐☐☐☐☐☐☐ Doomed
 
-### Passive
+**Harm**
+
+Okay ☐☐☐|☐☐☐☐ Dying
+
+Unstable: ☐
+
+### Ability
 
 You have 2 **Special Defense**. Does not stack with other sources of **Special Defense**
 
@@ -22,7 +41,7 @@ You have 2 **Special Defense**. Does not stack with other sources of **Special D
 ## Moves
 ---
 
-## *Reflect
+## Reflect
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
@@ -44,13 +63,13 @@ Does not stack with other **Defense**
 
 Roll  **+Cute**.
 
-On 10+ everyone stops to watch and listen until you finish your singing.
+10+ everyone stops to watch and listen until you finish your singing.
 
-On a 7-9, you pick one Pokemon to stop, watch and listen until you finish singing.
+7-9: you pick one Pokemon to stop, watch and listen until you finish singing.
 
-On a miss, you're singing draws unwanted attention
+Miss: you're singing draws unwanted attention
 
-Does not effect boss monsters
+Does not effect legendary Pokemon
 
 ---
 
@@ -64,13 +83,11 @@ Your  touch  can  heal  injury  and  status effects.
 
 Roll **+Cute**
 
-On a 10+, heal 2 harm or a status effect, plus  they’re  stabilized.
+10+ heal 2 harm or a status effect, plus  they’re  stabilized.
 
-On  a  7-9, you can heal the harm or status effect as on a 10+, but you take it into your-self.
+7-9: you can heal the harm or status effect as on a 10+, but you take it into your-self.
 
-On a miss, your aura causes 1 harm.
-
-
+Miss: your aura causes 1 harm.
 
 ---
 

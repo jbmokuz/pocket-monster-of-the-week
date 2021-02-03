@@ -1,8 +1,15 @@
-﻿![normal](images/rock.png)
+![normal](images/rock.png) ![normal](images/fighting.png)
 
-### Description
 
-Do you just want to punch things really hard? All you need is **Tough** to punch all the things! **Rock** Pokemon have a bit more survivability while Fighting Pokemon can hit things even harder. Beware of **Ghost** Pokemon, as you may have a hard time hitting them. Also you biggest attacks are physical so you can have problems with **Special Defense** if you don't take **Ancient Power.**
+### Description (Physical Attacker)
+
+Do you just want to punch things really hard? Well then look no further. **Rock** and **Fighting** Pokemon must beware of **Ghost** Pokemon, as they may have a hard time hitting them. Also there biggest attacks are physical, so they can have problems with **Special Defense** if they don't take **Ancient Power.**
+
+All you need is **Tough** to punch all the things! **Clever** can be used with **Ancient Power**
+
+**Rock** Pokemon have a bit more survivability while **Fighting** Pokemon can hit things even harder.
+
+### Stats
 
 
  |      Ability                   | Score | Moves that use ability                         |
@@ -13,8 +20,15 @@ Do you just want to punch things really hard? All you need is **Tough** to punch
  | **Tough** | | Normal Attacks <br/> Protect Someone |
  | **Special** | | Special Attacks <br/> |
 
-<br/>
+**Luck**
 
+Okay ☐☐☐☐☐☐☐ Doomed
+
+**Harm**
+
+Okay ☐☐☐|☐☐☐☐ Dying
+
+Unstable: ☐
 
 ## Rock
 
@@ -22,7 +36,8 @@ Do you just want to punch things really hard? All you need is **Tough** to punch
  |--------------------------------|---------|-----------------------------|
  | ![](images/FightingIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/WaterIC_Big.webp)| ![](images/FireIC_Big.webp) ![](images/FlyingIC_Big.webp) ![](images/NormalIC_Big.webp) ![](images/PoisonIC_Big.webp)| |
 
-### Passive
+
+### Ability
 
 You have 2 **Defense**. Does not stack with other sources of **Defense**
 
@@ -30,9 +45,9 @@ You have 2 **Defense**. Does not stack with other sources of **Defense**
 
  |   Super                        | Not Very| Not                         |
  |--------------------------------|---------|-----------------------------|
- | ![](images/FlyingIC_Big.webp) ![](images/PsychicIC_Big.webp)|  ![](images/BugIC_Big.webp) ![](images/RockIC_Big.webp) |
+  | ![](images/FlyingIC_Big.webp)  ![](images/PsychicIC_Big.webp) | ![](images/BugIC_Big.webp) ![](images/RockIC_Big.webp)  | |
 
-### Passive:
+### Ability:
 
 **Signature Move**: Pick a physical move. You get +1 when attacking with that move.
 
@@ -87,9 +102,9 @@ You opponent moves first. If they do not deal damage, this attack automatically 
 
  |   Super                        | Not Very| Not                         |
  |--------------------------------|---------|-----------------------------|
- | ![](images/NormalIC_Big.webp) ![](images/RockIC_Big.webp) ![](images/IceIC_Big.webp)| ![](images/PoisonIC_Big.webp) ![](images/FlyingIC_Big.webp) ![](images/BugIC_Big.webp) ![](images/PsychicIC_Big.webp)        | ![](images/GhostIC_Big.webp) |
+ | ![](images/NormalIC_Big.webp)  ![](images/RockIC_Big.webp) ![](images/IceIC_Big.webp)| ![](images/PoisonIC_Big.webp) ![](images/FlyingIC_Big.webp) ![](images/BugIC_Big.webp) ![](images/PsychicIC_Big.webp)        | ![](images/GhostIC_Big.webp) |
 
-### Passive
+### Ability
 
 Pick a Pokemon type during Pokemon creation
 
@@ -175,6 +190,9 @@ You gain 1 **Defense** (Max 2) for the rest of the combat
  |   Super                        | Not Very| Not                         |
  |--------------------------------|---------|-----------------------------|
  | ![](images/BugIC_Big.webp) ![](images/FireIC_Big.webp) ![](images/FlyingIC_Big.webp) ![](images/IceIC_Big.webp) | ![](images/FlyingIC_Big.webp) ![](images/GroundIC_Big.webp) | |
+
+
+### Move
 
 Once per mystery, you can attempt to keep going despite your injuries.
 

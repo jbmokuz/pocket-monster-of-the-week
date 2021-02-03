@@ -1,9 +1,15 @@
-﻿![Grass](images/grass.png) ![Bug](images/bug.png)
+![Grass](images/grass.png) ![Bug](images/bug.png)
 
 
-### Description
+### Description (Generalist)
 
-Grass Pokemon have a good of survivability if they have a source of healing. They use **Clever** to precisely cut and also move Pokemon around where they want them.
+**Grass** and **Bug** Pokemon are kind of a mixed bag. There are alot of options, but perhaps nothing too single foucused. They also have by far the best status effect move. 
+
+**Grass** pokemon can have amazing survivability if they have a source of healing. **Bug** pokemon are good at finding hiden things and have better crits.
+
+They use **Tough** to precisely cut and also move Pokemon around where they want them. Also **Cool** can be used for good first impressions
+
+### Stats
 
 
  |      Ability                   | Score | Moves that use ability                         |
@@ -13,6 +19,17 @@ Grass Pokemon have a good of survivability if they have a source of healing. The
  | **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
  | **Tough** | | Normal Attacks <br/> Protect Someone |
  | **Special** | | Special Attacks <br/> |
+
+**Luck**
+
+Okay ☐☐☐☐☐☐☐ Doomed
+
+**Harm**
+
+Okay ☐☐☐|☐☐☐☐ Dying
+
+Unstable: ☐
+
 
 ## Grass 
 
@@ -84,7 +101,7 @@ Miss: You fail to destroy what you are cutting and draw unwanted attention immed
 | ----------- | ------------ | ----------- |
 | ![](images/BugIC_Big.webp)| ![](images/physical.png)| 1 Harm |
 
-When you hit with this attack, roll a D6. On a 4, 5 or 6, heal 1
+When you hit with this attack heal 1
 
 ### Effective
 
@@ -169,6 +186,6 @@ When you first meet a non legendary Pokemon, that doesn't already know who you a
 
 10+: They are immediately friendly to you and will be more likely to help you out
 
-7 - 9: They are friendly too you but will not necessarily help you out for no reason
+7-9: They are friendly too you but will not necessarily help you out for no reason
 
 Miss: They don't like you at all and will likely not help you with out a lot of convincing

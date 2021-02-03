@@ -1,11 +1,19 @@
-﻿![fire](images/fire.png)
+![fire](images/fire.png)
 
-### Description
+ |   Super                                                                               | Not Very                                                                            | Not|
+ |---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----|
+ | ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp) ![](images/WaterIC_Big.webp)|  ![](images/BugIC_Big.webp) ![](images/FireIC_Big.webp) ![](images/GrassIC_Big.webp)|    |
+
+### Description (Damage Caster)
 
 Burn baby burn disco inferno. Sort of a shoot first deal with the consequences later type of Pokemon. You can cause insane amounts of damage and destruction but often at a cost.
-Your big attacks use **Special**, so be careful of **Special Defense**. 
+
+
+They have big attacks that use **Special**, and can be week to **Special Defense**. They can also be a bit of a bully, able to effectivly **Manipulate Someone** with **Tough**
  
- |      Ability                   | Score | Moves that use ability |
+### Stats
+
+ |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
  | **Cute**  | | Manipulate Someone <br/> |
  | **Cool**  | | Act Under Pressure <br/> Help Out |
@@ -13,20 +21,23 @@ Your big attacks use **Special**, so be careful of **Special Defense**.
  | **Tough** | | Normal Attacks <br/> Protect Someone |
  | **Special** | | Special Attacks <br/> |
 
+**Luck**
 
-### Effective
+Okay ☐☐☐☐☐☐☐ Doomed
 
- |   Super                                                                               | Not Very                                                                            | Not|
- |---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----|
- | ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp) ![](images/WaterIC_Big.webp)|  ![](images/BugIC_Big.webp) ![](images/FireIC_Big.webp) ![](images/GrassIC_Big.webp)|    |
+**Harm**
+
+Okay ☐☐☐|☐☐☐☐ Dying
+
+Unstable: ☐
+
+
 
 ### Ability
 
-**Reckless:** Gain +1 forward when one of your moves damages you. 
+**Reckless:** +1 to **act under pressure** when dealing with the consequences of your special moves.
 
-+1 to **act under pressure** when dealing with the consequences of your special moves. 
-
-You can not be burned.
+**Burn Immune:** You can not be burned.
 
 # Moves
 
@@ -36,11 +47,30 @@ You can not be burned.
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/FireIC_Big.webp)| ![](images/special.png)| 3 Harm |
+ | ![](images/FireIC_Big.webp)| ![](images/special.png)| 2 Harm |
 
-On a mixed success You take 1 harm ignore **Special Defense** and deal 1 less harm.
+Pick as many Benifits as you want. For each Benifit, you must pick a Drawback
 
-On a miss You take 1 harm and the fire spreads uncontrollably in a large eruption.
+### Benefits
+
+☐ Deal +1 Harm
+
+☐ Ignore **Sepcial Defense**
+
+☐ Inflic burn on hit
+
+☐ Attack up to 3 targets
+
+### Drawbacks
+
+☐ On a 7-9 You take 1 harm ignore **Special Defense**
+
+☐ On a 7-9 deal one less harm
+
+☐ Requires a sucessful **Act under Pressue** roll to use
+
+☐ On a miss the keeper holds a hard move
+
 
 ### Effective
 
@@ -55,17 +85,15 @@ You can create fire in a controlled way (like to light a candle or burn down a h
 
 ---
 
-## Fire Blast
+## Wild Fire
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/FireIC_Big.webp)| ![](images/special.png)| 2 Harm |
+ | ![](images/FireIC_Big.webp)| ![](images/special.png)| 1 Harm |
 
-  Roll with -1 Special
+  On a 7+ Creates a "fire wall" providing +1 **Defence**. When using physical attacks through the "fire wall" roll a d6, on a 1 or 2 inflicts burn.
 
-  draws immediate, unwelcome attention on a miss or mixed success.
-
-  If this move hits, the target is burned.
+  On a miss, this attack draws immediate, unwelcome attention.
 
 ### Effective
 

@@ -1,4 +1,16 @@
-﻿![psychic](images/psychic.png)
+![psychic](images/psychic.png)
+
+ |   Super| Not Very| Not|
+ |--------|---------|----|
+ | ![](images/BugIC_Big.webp) | ![](images/PsychicIC_Big.webp) ![](images/FightingIC_Big.webp)        |  ![](images/GhostIC_Big.webp)   |
+
+### Description (Utility caster)
+
+Psychic Pokemon have many extremely useful abilities. They can sense the future and tap into other Pokemon's minds. However they are absolutely terrible in a fight.
+
+**Special** is the most important stat for a Psychic Pokemon.
+### Stats
+
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
@@ -7,6 +19,16 @@
  | **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
  | **Tough** | | Normal Attacks <br/> Protect Someone |
  | **Special** | | Special Attacks <br/> |
+
+**Luck**
+
+Okay ☐☐☐☐☐☐☐ Doomed
+
+**Harm**
+
+Okay ☐☐☐|☐☐☐☐ Dying
+
+Unstable: ☐
 
 
 
@@ -31,13 +53,13 @@ You can gaze into the mind of a Pokemon (Legendary Pokemon with in a mile and re
 
 Roll **+Special.**
 
-On a 10+, hold 3.
-
-On a 7-9, hold 1.
-
-On a miss, the target becomes aware of you and what you are doing.
-
 **For a legendary Pokemon**
+
+10+ hold 3.
+
+7-9: hold 1
+
+Miss: The target becomes aware of you and what you are doing.
 
 Spend one hold to ask the Keeper one of the following questions, and gain +1 ongoing while acting on the answers:
 
@@ -64,7 +86,7 @@ Miss: The Pokemon knows you are reading there mind and could become hostile
 
 You are automatically successful in a run attempt.
 
-When you attempt a teleport with other Pokemon,  roll  +Special.
+When you attempt a teleport with other Pokemon,  roll  **+Special**
 
 On a 10+ you all escape.
 
@@ -90,11 +112,11 @@ You can tell when something bad is happening (or just about to happen) somewhere
 
 roll **+Special**.
 
-On a 10+ you knew where you needed to go, just in time to get there.
+10+ You knew where you needed to go, just in time to get there.
 
-On a 7-9, you get there late – in time to intervene, but not prevent it altogether.
+7-9: You get there late – in time to intervene, but not prevent it altogether.
 
-On a miss, you get there just in time to be in trouble yourself.
+Miss: You get there just in time to be in trouble yourself.
 
 ---
 
