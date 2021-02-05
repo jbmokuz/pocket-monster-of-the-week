@@ -1,11 +1,5 @@
 ﻿# Pocket Monster of the Week
 
-# Premise
-
-You are Pokemon in the legendary Pokemon trainer Red's team! You have gone on many fantastic Pokemon adventures over the years. However once in a while Red would seemingly "freeze" in place for no reason. At first this was for just a few hours a day. However, as time went on, these "freezing" periods got longer and longer, until it seemed to just go on for years.
-
-Finally	after being stuck in your pokeball for ages, you escape into a vastly changed world! Pokemon fear that the end is near as the great "Energizer's" power wanes. In an effort to conserve	power Pokemon do not fight. But with your awakening also heralds monstrous Legendary Pokemon called "The Game Sharks" with unfathomable power and a thrust for consuming energy. Only you posses the Hidden Machine's to stop The Game Sharks! Will you be able to stop them before all of Kanto is erased forever?
-
 # Description	
 
 Pocket Monster of the Week is a Monster of the Week reskin with custom playbooks and a few rules changes.
