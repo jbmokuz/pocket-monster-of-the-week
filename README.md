@@ -1,4 +1,24 @@
-﻿# Pocket Monster of the Week
+# Pocket Monster of the Week
+
+## Playbooks
+
+[Fire](Playbooks/fire.md) - Damage Caster
+
+[Rock/Fighting](Playbooks/rock.md) - Physical Attacker
+
+[Flying/Dragon](Playbooks/flying.md) - Mobility
+
+[Ghost](Playbooks/ghost.md) - Rouge
+
+[Electric](Playbooks/electric.md) - Intel/Connections
+
+[Water](Playbooks/water.md) - Tinkerer
+
+[Grass/Bug](Playbooks/grass.md) - Generalist
+
+[Normal](Playbooks/normal.md) - Support
+
+[Psychic](Playbooks/psychic.md) - Utility Caster
 
 # Description	
 
