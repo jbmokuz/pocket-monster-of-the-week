@@ -1,5 +1,10 @@
 ![Grass](images/grass.png) ![Bug](images/bug.png)
 
+**Nickname:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Species:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Level** _\_\_\_\_   **Shiny:** ☐
 
 ### Description (Generalist)
 
@@ -53,9 +58,9 @@ Unstable: ☐
 
 ### Ability
 
-**Compound Eyes:** The keeper will alert you if you are close to something hidden (such as an item or a secret room)
+**Sniper:** Your Crits deal +2 Harm instead of +1
 
-** Sniper:** Your Crits deal +2 Harm instead of +1
+**Compound Eyes:** The keeper will alert you if you are close to something hidden (such as an item or a secret room)
 
 ---
 

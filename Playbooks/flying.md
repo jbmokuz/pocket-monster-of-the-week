@@ -1,5 +1,11 @@
 ![normal](images/flying.png) ![normal](images/dragon.png)
 
+**Nickname:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Species:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Level** _\_\_\_\_   **Shiny:** ☐
+
 ### Description (Mobility)
 
 **Flying/Dragon** Pokemon add a lot of maneuverability to a party. They can fly around scouting out an area and accessing places other Pokemon can’t. They also have the ability to escape some bad situations.

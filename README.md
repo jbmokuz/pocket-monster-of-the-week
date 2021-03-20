@@ -73,11 +73,25 @@ Moves and Passives added by an Attack are not effected by the effectiveness char
 
 Pokemon can only hold one item at a time (including key items).
 
+Here are some examples.
+
 * Standard Berry - Heals 1 harm and is consumed
 * Miracle Berry - Heals any status condition and is consumed
 * Gem - Deals 1 extra harm on hit and is consumed
 * Mail - A letter
 
-## Shiny Pokemon
+## Misc Character creation
 
-* During character creation roll 2d20s. If you roll 2 nat 20s, your Pokemon is shiny. Has no effect on stats, but could be mentioned by other Pokemon
+* During character creation roll 5d6. If you roll all the same number, your Pokemon is shiny. Has no effect on stats, but could be mentioned by other Pokemon
+
+* Also pick a level between 15 to 30 (inclusive). It has no effect on your stats, but you know could matter somehow
+
+* If you pokemon Species can fly (and is not already get the passive **Flying**), you replace your first passive with the following passive.
+
+**Lesser Flying** You can fly freely up to 10ft. Beyond that, you may also atempt to fly in (but only in resonable conditions) by rolling **Cool**
+
+10+ You can fly to where you want to go
+
+7-9: You fly with some trouble. Either you don't quite get to where you are going or it takes you a long time.
+
+Miss: you fail fantastically and end up somewhere you don’t want to be

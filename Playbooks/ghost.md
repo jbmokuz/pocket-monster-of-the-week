@@ -1,5 +1,11 @@
 ![ghost](images/ghost.png)
 
+**Nickname:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Species:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Level** _\_\_\_\_   **Shiny:** ☐
+
  |   Super                      | Not Very                                                 | Not                                                           |
  |------------------------------|----------------------------------------------------------|---------------------------------------------------------------|
  |  ![](images/GhostIC_Big.webp)|  ![](images/BugIC_Big.webp) ![](images/PoisonIC_Big.webp)|  ![](images/FightingIC_Big.webp) ![](images/NormalIC_Big.webp) ![](images/GroundIC_Big.webp)|

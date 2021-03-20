@@ -1,5 +1,10 @@
 ![normal](images/rock.png) ![normal](images/fighting.png)
 
+**Nickname:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Species:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Level** _\_\_\_\_   **Shiny:** ☐
 
 ### Description (Physical Attacker)
 

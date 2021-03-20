@@ -1,5 +1,11 @@
 ![fire](images/fire.png)
 
+**Nickname:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Species:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Level** _\_\_\_\_   **Shiny:** ☐
+
  |   Super                                                                               | Not Very                                                                            | Not|
  |---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----|
  | ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp) ![](images/WaterIC_Big.webp)|  ![](images/BugIC_Big.webp) ![](images/FireIC_Big.webp) ![](images/GrassIC_Big.webp)|    |
@@ -35,9 +41,9 @@ Unstable: ☐
 
 ### Ability
 
-**Reckless:** +1 to **act under pressure** when dealing with the consequences of your special moves.
-
 **Burn Immune:** You can not be burned.
+
+**Reckless:** +1 to **act under pressure** when dealing with the consequences of your special moves.
 
 # Moves
 

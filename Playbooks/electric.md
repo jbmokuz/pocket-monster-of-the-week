@@ -1,10 +1,14 @@
-
 ![normal](images/electric.png)
+
+**Nickname:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Species:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Level** _\_\_\_\_   **Shiny:** ☐
 
  |   Super                        | Not Very| Not                         |
  |--------------------------------|---------|-----------------------------|
  | ![](images/GroundIC_Big.webp)| ![](images/ElectricIC_Big.webp) ![](images/FlyingIC_Big.webp) | |
-
 
 ### Description (Intel/Connections)
 
@@ -13,7 +17,6 @@ You're electric typing and being party of the chosen Pokemon gives you clout in 
 Most of these moves require **Clever** or **Special**
 
 ### Stats
-
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
@@ -32,7 +35,6 @@ Okay ☐☐☐☐☐☐☐ Doomed
 Okay ☐☐☐|☐☐☐☐ Dying
 
 Unstable: ☐
-
 
 ### Ability
 

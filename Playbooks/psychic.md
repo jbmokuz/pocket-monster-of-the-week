@@ -1,5 +1,11 @@
 ![psychic](images/psychic.png)
 
+**Nickname:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Species:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Level** _\_\_\_\_   **Shiny:** ☐
+
  |   Super| Not Very| Not|
  |--------|---------|----|
  | ![](images/BugIC_Big.webp) | ![](images/PsychicIC_Big.webp) ![](images/FightingIC_Big.webp)        |  ![](images/GhostIC_Big.webp)   |
