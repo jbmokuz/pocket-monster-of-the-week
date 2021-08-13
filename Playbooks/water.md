@@ -36,12 +36,6 @@ Okay ☐☐☐|☐☐☐☐ Dying
 
 Unstable: ☐
 
-### Passive
-
-**Recycle:** Once per mystery, you may reuse a consumed item
-
-**Create Water:** You create up to 10 gallons of clean water
-
 ### Starting Item
 
 Pokebag (Does not count as a held item) - You can hold 2 extra items in your pokebag. As a move you may exchange an item in your pokebag with your held item.
@@ -51,7 +45,7 @@ Pokebag (Does not count as a held item) - You can hold 2 extra items in your pok
 
 ---
 
-## *Surf
+## ☒ Surf
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
@@ -71,21 +65,11 @@ Miss: You only damage your two closets allies.
 
 ### Move
 
-You can swim on any body of water and dive under water.
 
-If you want to bring other Pokemon
-
-**+Clever**
-
-10+: You all go where you wanted.
-
-7-9: You don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
-
-Miss: disaster strikes.
 
 ---
 
-##  Razor Shell
+## ☐ Razor Shell
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
@@ -101,11 +85,11 @@ You have +1 **Defense** (Max +2) until your next turn.
 
 ### Passive
 
-When attacked the attacker takes +1 harm if using a physical attack
+
 
 ---
 
-## Liquidation
+
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
@@ -119,25 +103,13 @@ Ignores Defense
  |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
  | ![](images/FireIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp)|  ![](images/DragonIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
 
-### Move
 
-You are a seasoned veteran of surplus auctions
 
-When evaluating or identifying an item roll **+Clever**
 
-10 +: You know exactly what the item does and how much it is worth
-
-7-9: You partially know what the item does and have an idea about its worth
-
-miss: You know nothing about the item
-
-Can be used to identify a hostile Pokemon's held item
-
-You also get +1 on rolls to **Manipulate Someone** when trying to mask the effect or value of an item
 
 ---
 
-## Crabhammer
+
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
@@ -153,43 +125,23 @@ Roll with +1 **Tough**
 
 ### Move
 
-You can craft items with your crabhammer
 
-Once per mystery, After 1 hour of uninterrupted work you can craft one of the items on the list.
-If this is the first mystery, you can elect to start with one of these items instead.
-
-Assault Vest: +1 Special Defense (Max +2).
-
-Power Belt: +1 Defense (Max +2).
-
-Razor Claw: When you crit you also take -1 harm.
-
-Safety Goggles: Grants the holder immunity to powder and spore moves and immunity to damage from hail and sandstorm.
-
-Poke Doll: Consume item to escape instantly.
-
-Iron Ball: Holder always acts second and is susceptible to ground type moves, even when normally immune.
-
-Tin of Beans: Useful for cooking!
 
 
 ---
 
-## Haze
+## ☐ Haze
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/IceIC_Big.webp)| ![](images/status.png)| |
 
-Remove all status effects from everyone in an encounter
-
-## Move
-
-You can create an obscuring mist.
+Remove all status effects from everyone in an encounter  
+Also creates an obscuring mist.
 
 ---
 
-## Ice Punch
+## ☐ Ice Punch
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
@@ -204,3 +156,52 @@ If this move hits, roll a d6. On a 1 the target is frozen.
  | ![](images/DragonIC_Big.webp) ![](images/FlyingIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/GrassIC_Big.webp)|  ![](images/IceIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
 
 ---
+
+## Actions
+
+### ☒ Surf
+
+> You can swim on any body of water and dive under water.  
+> If you want to bring other Pokemon rool **+Clever**  
+
+
+
+>10+: You all go where you wanted.  
+7-9: You don’t quite manage it. Either you are all separated, or you all appear in the wrong place.  
+Miss: disaster strikes.  
+
+### ☐ Liquidation
+
+> You are a seasoned veteran of surplus auctions  
+When evaluating or identifying an item roll **+Clever**  
+
+>10 +: You know exactly what the item does and how much it is worth  
+7-9: You partially know what the item does and have an idea about its worth  
+miss: You know nothing about the item
+
+>Can be used to identify a hostile Pokemon's held item  
+You also get +1 on rolls to **Manipulate Someone** when trying to mask the effect or value of an item
+
+### ☐ Crabhammer
+
+> You can craft items with your crabhammer  
+**Once per mystery**, After 1 hour of uninterrupted work you can craft one of the items on the list.  
+If this is the first mystery, you can elect to start with one of these items instead.  
+
+* Assault Vest: +1 Special Defense (Max +2).  
+* Power Belt: +1 Defense (Max +2).  
+* Razor Claw: When you crit you also take -1 harm.  
+* Safety Goggles: Grants the holder immunity to powder and spore moves and immunity to damage from hail and sandstorm.  
+* Poke Doll: Consume item to escape instantly.  
+* Iron Ball: Holder always acts second and is susceptible to ground type moves, even when normally immune.  
+* Tin of Beans: Useful for cooking!
+
+### ☐ Create Water  
+> You create up to 10 gallons of clean water  
+
+## Ablility  
+
+### ☐ Razor Shell  
+> When attacked the attacker takes +1 harm if using a physical attack  
+### ☐ Recycle  
+> Once per mystery, you may reuse a consumed item  

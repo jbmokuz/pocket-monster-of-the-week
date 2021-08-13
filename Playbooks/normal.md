@@ -41,10 +41,14 @@ Unstable: ☐
 
 You have 2 **Special Defense**. Does not stack with other sources of **Special Defense**
 
-**Mimic:** You may take one move (excludes *) from another playbook. You still need to meet the requirements to take that move.
 
-## Moves
+
+# Moves
 ---
+
+## Mimic 
+
+You may take one move (excludes moves that are checked by default) from another playbook. You still need to meet the requirements to take that move.
 
 ## Reflect
 
@@ -150,6 +154,12 @@ Miss: your aura causes 1 harm.
  |--------------------------------|---------|-----------------------------|
  | ![](images/RockIC_Big.webp)|         | ![](images/GhostIC_Big.webp)|
 
-### Passive
+# Actions
+
+## Mimic 
+
+☐ You may take one action (excludes actions that are checked by default) from another playbook. You still need to meet the requirements to take that action.
+
+# Abilities  
 
 +1 to rolls when using **Help Out**

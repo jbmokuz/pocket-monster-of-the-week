@@ -47,9 +47,18 @@ Tough = Tough
 
 Special = Weird
 
+
+## Moves?
+
+Moves are an overloaded term, so to avoid confusion...
+
+Monster of the week *Moves* are called *Actions*
+
+Pokemon *Moves* are called *Attacks*
+
 ## Kick Some Ass change
 
-Kick Some Ass is not longer a move. Instead each Attack has a type that dictates what skill to use.
+Kick Some Ass is now replaced with *Attacks*. *Moves* are now called *Actions* (To avoid confusion with the pokemon term move). Each *Attack* has a type that dictates what skill to use.
 
 Special attack ![](Playbooks/images/special.png): Uses **Special** (Reskined Weird). **Special Defense** reduces harm the same way as Armor did.
 
