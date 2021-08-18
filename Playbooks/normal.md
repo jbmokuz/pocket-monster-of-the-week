@@ -43,7 +43,7 @@ You have 2 **Special Defense**. Does not stack with other sources of **Special D
 
 
 
-# Moves
+# Attacks
 ---
 
 ## Mimic 
@@ -159,6 +159,8 @@ Miss: your aura causes 1 harm.
 ## Mimic 
 
 ☐ You may take one action (excludes actions that are checked by default) from another playbook. You still need to meet the requirements to take that action.
+
+---
 
 # Abilities  
 

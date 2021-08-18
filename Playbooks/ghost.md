@@ -37,154 +37,136 @@ Okay ☐☐☐|☐☐☐☐ Dying
 
 Unstable: ☐
 
-### Ability
+---
+## Abilities
+---
 
-**Levitate:**   You also can float up to 10ft off the ground. You  may  move  freely  through  solid  objects. You are Immune to ground type moves.
+### ☒ Levitate   
+> You can float up to 10ft off the ground. You may move freely through solid objects. You are Immune to ground type moves.
 
-# Moves
+### ☐ Cursed Body  
+> Pokemon may not attack you with the same attack twice in a row (even if they attack another target between attacks)
 
 ---
-##  * Night Shade
+## Actions
+---
 
+### ☒ Night Shade
 
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/GhostIC_Big.webp) | ![](images/physical.png)| 1 Harm|
+ You can go invisible outside of combat. Making a roll of any kind (besides using this ability) will make you instantly visible again.  
+**+Cool**  
+While invisible you can try to hide from someone/something.  
 
-
-### Effective
-
- |   Super                      | Not Very | Not                                                          |
- |------------------------------|----------|--------------------------------------------------------------|
- |  ![](images/GhostIC_Big.webp)|          |  ![](images/PsychicIC_Big.webp) ![](images/NormalIC_Big.webp)|
-
-### Move
-
- You can go invisible outside of combat. Making a roll of any kind (besides using this ability) will make you instantly visible again.
-
-**+Cool**
-
-While invisible you can try to hide from someone/something.
-
-10+ You are undetectable.
-
-7-9: what you are hiding from can not see you, but is still alerted to your presence in some way
-
+10+ You are undetectable.  
+7-9: what you are hiding from can not see you, but is still alerted to your presence in some way  
 Miss: what you are hiding from knows exactly where you are
 
----
+### ☐ Shadow Sneak
 
-## Shadow Sneak
-
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/GhostIC_Big.webp) | ![](images/physical.png)| 1 Harm |
-
-### Efective
-
- |   Super                      | Not Very | Not                                                          |
- |------------------------------|----------|--------------------------------------------------------------|
- |  ![](images/GhostIC_Big.webp)|          |  ![](images/PsychicIC_Big.webp) ![](images/NormalIC_Big.webp)|
-
-### Move
-
-**+Cool**
 
 When you break into a secure location,
-roll.
+roll. **+Cool**  
 
-10+ hold three
-
-7-9: hold two.
-
+10+ hold three  
+7-9: hold two.  
 
 * you get in undetected
 * you get out undetected
 * you don’t leave a mess
 * you find what you were after
 
----
+### ☐ Spectral Thief
 
-## Spectral Thief
 
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/GhostIC_Big.webp) | ![](images/physical.png)| 1 Harm |
-
-bypasses substitutes
-
-### Effective
-
- |   Super                      | Not Very | Not                                                          |
- |------------------------------|----------|--------------------------------------------------------------|
- |  ![](images/GhostIC_Big.webp)|          |  ![](images/PsychicIC_Big.webp) ![](images/NormalIC_Big.webp)|
-
-### Move
-
-**+Cool**
-
-When you steal something small, roll.
+When you steal something small, roll. **+Cool**  
 
 10+ you get it and they didn’t
-notice you taking it.
+notice you taking it.  
+7-9: Pick one  
 
-7-9: either you don’t grab
-it, you grab the wrong thing, or they remember you
-later: your choice.
+* you don’t grab it 
+* you grab the wrong thing 
+* they remember you later  
 
 You cannot steal Mail
 
+### ☐ Confuse Ray  
+When rooling to manipulate someone, you may use ***Cool*** instead of ***Cute***  
+
+---
+## Attacks
 ---
 
-## Soul-Stealing 7-Star Strike
+### ☒ Night Shade
+ on a 10+ you  gain  the  advantage:  
+take  +1 forward, or give +1 forward to another pokemon.
+
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/GhostIC_Big.webp) | ![](images/physical.png)| 1 Harm|
+
+
+### ☐ Dream Eater
+
+May only be used while asleep  
+Heal 1 for each harm delt with this attack
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/GhostIC_Big.webp) | ![](images/physical.png)| 1 Harm |
 
+
+### ☐ Spectral Thief
+
+bypasses substitutes  
+On a 10+, steal a held item from the pokemon you are attacking
+
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/GhostIC_Big.webp) | ![](images/physical.png)| 1 Harm |
+
+
+### ☐ Soul-Stealing 7-Star Strike
+
 If this is your first attack aganst an unsuspecting target, do +2 Harm.
 
-### Effective
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/GhostIC_Big.webp) | ![](images/physical.png)| 1 Harm |
 
- |   Super                      | Not Very | Not                                                          |
- |------------------------------|----------|--------------------------------------------------------------|
- |  ![](images/GhostIC_Big.webp)|          |  ![](images/PsychicIC_Big.webp) ![](images/NormalIC_Big.webp)|
 
----
+### ☐ Confuse Ray
 
-### Confuse Ray
+Causes effected target be confused
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/GhostIC_Big.webp) | ![](images/status.png)| NA |
 
-Causes effected target be confused
 
+### ☐ Poison Jab
 
-### Effective
-
- |   Super| Not Very| Not |
- |--------|---------|-----|
- |  NA    |  NA     |  NA |
-
-### Move
-
-
-You may use ***Cool*** instead of ***Cute*** to manipulate someone
-
-
----
-
-### Poison Jab
+Roll a d6. On a 1 or 2 the target is poisoned (Poison type Pokemon can not be poisoned)
 
 | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/PoisonIC_Big.webp)| ![](images/physical.png)| 1 Harm |
 
-Roll a d6. On a 1 or 2 the target is poisoned (Poison type Pokemon can not be poisoned)
 
-### Effective
+---
+
+### Type: ![](images/GhostIC_Big.webp)
+
+ |   Super                      | Not Very | Not                                                          |
+ |------------------------------|----------|--------------------------------------------------------------|
+ |  ![](images/GhostIC_Big.webp)|          |  ![](images/PsychicIC_Big.webp) ![](images/NormalIC_Big.webp)|
+
+### Type: ![](images/PoisonIC_Big.webp)
 
  |   Super                                                 | Not Very                                                                                                            | Not|
  |---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----|
  |  ![](images/BugIC_Big.webp) ![](images/GrassIC_Big.webp)| ![](images/PoisonIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/GhostIC_Big.webp) ![](images/RockIC_Big.webp)|    |
+
+
+---
+

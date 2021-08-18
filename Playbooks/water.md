@@ -40,124 +40,20 @@ Unstable: ☐
 
 Pokebag (Does not count as a held item) - You can hold 2 extra items in your pokebag. As a move you may exchange an item in your pokebag with your held item.
 
-
-##Moves
-
+---
+## Ablilities  
 ---
 
-## ☒ Surf
-
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/WaterIC_Big.webp)| ![](images/special.png)| 1 Harm |
-
-10+: you can deal 1 Harm to all enemies in a fight.
-
-7-9: you can deal 1 Harm to all enemies in a fight. You also deal damage to your 2 closets allies.
-
-Miss: You only damage your two closets allies.
-
-### Effective
-
- |   Super                                                                           | Not Very                                                                                                           | Not|
- |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
- | ![](images/FireIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp)|  ![](images/DragonIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
-
-### Move
-
-
-
----
-
-## ☐ Razor Shell
-
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/WaterIC_Big.webp)| ![](images/physical.png)| 1 Harm |
-
-You have +1 **Defense** (Max +2) until your next turn.
-
-### Effective
-
- |   Super                                                                           | Not Very                                                                                                           | Not|
- |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
- | ![](images/FireIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp)|  ![](images/DragonIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
-
-### Passive
-
-
-
----
-
-
-
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/WaterIC_Big.webp)| ![](images/physical.png)| 1 Harm |
-
-Ignores Defense
-
-### Effective
-
- |   Super                                                                           | Not Very                                                                                                           | Not|
- |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
- | ![](images/FireIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp)|  ![](images/DragonIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
-
-
-
-
-
----
-
-
-
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/WaterIC_Big.webp)| ![](images/physical.png)| 1 Harm |
-
-Roll with +1 **Tough**
-
-### Effective
-
- |   Super                                                                           | Not Very                                                                                                           | Not|
- |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
- | ![](images/FireIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp)|  ![](images/DragonIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
-
-### Move
-
-
-
-
----
-
-## ☐ Haze
-
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/IceIC_Big.webp)| ![](images/status.png)| |
-
-Remove all status effects from everyone in an encounter  
-Also creates an obscuring mist.
-
----
-
-## ☐ Ice Punch
-
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/IceIC_Big.webp)| ![](images/physical.png)| 1 harm |
-
-If this move hits, roll a d6. On a 1 the target is frozen.
-
-### Effective
-
- |   Super                                                                           | Not Very                                                                                                           | Not|
- |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
- | ![](images/DragonIC_Big.webp) ![](images/FlyingIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/GrassIC_Big.webp)|  ![](images/IceIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
+### ☐ Razor Shell  
+> When attacked the attacker takes +1 harm if using a physical attack  
+### ☐ Recycle  
+> Once per mystery, you may reuse a consumed item  
 
 ---
 
 ## Actions
+
+---
 
 ### ☒ Surf
 
@@ -199,9 +95,101 @@ If this is the first mystery, you can elect to start with one of these items ins
 ### ☐ Create Water  
 > You create up to 10 gallons of clean water  
 
-## Ablility  
 
-### ☐ Razor Shell  
-> When attacked the attacker takes +1 harm if using a physical attack  
-### ☐ Recycle  
-> Once per mystery, you may reuse a consumed item  
+
+---
+## Attacks
+---
+
+## ☒ Surf
+
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/WaterIC_Big.webp)| ![](images/special.png)| 1 Harm |
+
+10+: you can deal 1 Harm to all enemies in a fight.
+
+7-9: you can deal 1 Harm to all enemies in a fight. You also deal damage to your 2 closets allies.
+
+Miss: You only damage your two closets allies.
+
+### Effective
+
+ |   Super                                                                           | Not Very                                                                                                           | Not|
+ |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
+ | ![](images/FireIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp)|  ![](images/DragonIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
+
+---
+
+## ☐ Razor Shell
+
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/WaterIC_Big.webp)| ![](images/physical.png)| 1 Harm |
+
+You have +1 **Defense** (Max +2) until your next turn.
+
+### Effective
+
+ |   Super                                                                           | Not Very                                                                                                           | Not|
+ |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
+ | ![](images/FireIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp)|  ![](images/DragonIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
+
+---
+
+## ☐ Liquidation
+
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/WaterIC_Big.webp)| ![](images/physical.png)| 1 Harm |
+
+Ignores Defense
+
+### Effective
+
+ |   Super                                                                           | Not Very                                                                                                           | Not|
+ |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
+ | ![](images/FireIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp)|  ![](images/DragonIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
+
+---
+
+## ☐ Crabhammer
+
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/WaterIC_Big.webp)| ![](images/physical.png)| 1 Harm |
+
+Roll with +1 **Tough**
+
+### Effective
+
+ |   Super                                                                           | Not Very                                                                                                           | Not|
+ |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
+ | ![](images/FireIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/RockIC_Big.webp)|  ![](images/DragonIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
+
+---
+
+## ☐ Haze
+
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/IceIC_Big.webp)| ![](images/status.png)| |
+
+Remove all status effects from everyone in an encounter  
+Also creates an obscuring mist.
+
+---
+
+## ☐ Ice Punch
+
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/IceIC_Big.webp)| ![](images/physical.png)| 1 harm |
+
+If this move hits, roll a d6. On a 1 the target is frozen.
+
+### Effective
+
+ |   Super                                                                           | Not Very                                                                                                           | Not|
+ |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
+ | ![](images/DragonIC_Big.webp) ![](images/FlyingIC_Big.webp) ![](images/GroundIC_Big.webp) ![](images/GrassIC_Big.webp)|  ![](images/IceIC_Big.webp) ![](images/WaterIC_Big.webp)|    |
