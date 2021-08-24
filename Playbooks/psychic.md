@@ -37,37 +37,36 @@ Okay ☐☐☐|☐☐☐☐ Dying
 Unstable: ☐
 
 
+---
 
-### Ability
-
-**Telepathy:** you can read people’s thoughts and put words in their mind. This can allow you to **Investigate a Mystery** or **Read  a  Bad  Situation**  without needing to actually talk. You can also manipulate someone without speaking. You still roll moves as normal, except people will not expect the weirdness of your mental communication.
-
-## Moves
+## Abilities
 
 ---
-## *Miracle Eye
 
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/PsychicIC_Big.webp)| ![](images/status.png)||
+### ☒ Telepathy 
+> you can read people’s thoughts and put words in their mind. 
 
-All changes to the targets evasion are ignored for the rest of the encounter.
+> You can **Investigate a Mystery** or **Read a Bad Situation**  without needing to actually talk. You can also **Manipulate Someone** without speaking. You still roll moves as normal, except people will not expect the weirdness of your mental communication.
 
-### Move
+---
 
-You can gaze into the mind of a Pokemon (Legendary Pokemon with in a mile and regular Pokemon with in line of sight).
+## Actions
 
-Roll **+Special.**
+---
 
-**For a legendary Pokemon**
+### ☐ Miracle Eye
 
-10+ hold 3.
+> You can gaze into the mind of a Pokemon (Legendary Pokemon with in a mile and regular Pokemon with in line of sight).
 
-7-9: hold 1
+> Roll **+Special.**
 
-Miss: The target becomes aware of you and what you are doing.
+> **For a legendary Pokemon**
 
-Spend one hold to ask the Keeper one of the following questions, and gain +1 ongoing while acting on the answers:
+>10+ hold 3.  
+>7-9: hold 1  
+>Miss: The target becomes aware of you and what you are doing.  
+
+> Spend one hold to ask the Keeper one of the following questions, and gain +1 ongoing while acting on the answers:
 
 * Where is the creature right now?
 * What is it planning to do right now?
@@ -75,44 +74,20 @@ Spend one hold to ask the Keeper one of the following questions, and gain +1 ong
 * Who does it regard as the biggest threat?
 * How can I attract its attention?
 
-**Regular Pokemon**
+> **Regular Pokemon**
 
-10+ You can read surface thoughts
+> 10+ You can read surface thoughts  
+> 7-9: You can read surface thoughts but the Pokemon knows that you are  
+> Miss: The Pokemon knows you are reading there mind and could become hostile
 
-7-9: You can read surface thoughts but the Pokemon knows that you are
 
-Miss: The Pokemon knows you are reading there mind and could become hostile
+### ☐ Magic room
 
----
-## Teleport
+> After one minute, you conjure an entrance to an extra dimensional room. You, and any Pokemon you designate, can enter the extra dimensional room as long as you keep the entrance open. While closed, the entrance is invisible (and inaccessible) from the outside.
 
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/PsychicIC_Big.webp)| ![](images/status.png)| NA |
+> Pokemon in the room can not use or be effected by, non combat psycic effects or any items.
 
-You are automatically successful in a run attempt.
-
-When you attempt a teleport with other Pokemon,  roll  **+Special**
-
-On a 10+ you all escape.
-
-On a  7-9,  you  don’t  quite  manage  it. Either you are all separate or all get lost some how.
-
----
-
-## Extrasensory
-
-| Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/PsychicIC_Big.webp)| ![](images/special.png)| 1 Harm |
-
-On a hit, roll a D6. On a 1 the opponent flinches.
-
-### Effective
-
- |   Super| Not Very| Not|
- |--------|---------|----|
- | ![](images/FightingIC_Big.webp) ![](images/PoisonIC_Big.webp) | ![](images/PsychicIC_Big.webp)         |    |
+### ☐ Extrasensory
 
 You can tell when something bad is happening (or just about to happen) somewhere that you aren't.
 
@@ -124,73 +99,80 @@ roll **+Special**.
 
 Miss: You get there just in time to be in trouble yourself.
 
+
+### ☐ Future sight
+
+> At the beginning of each mystery, roll **+Special** to see what is revealed about your immediate future.
+
+> On a 10+, the Keeper will reveal a useful detail about the coming mystery.  
+> On a 7-9 you get a vague hint about it.  
+> On a miss, something bad is going to happen to you.  
 ---
 
+## Attacks
 
-## Future sight
+---
+### ☐ Miracle Eye
+
+All changes to the targets evasion are ignored for the rest of the encounter.
+
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/PsychicIC_Big.webp)| ![](images/special.png)| 1 Harm |
+ | ![](images/PsychicIC_Big.webp)| ![](images/status.png)||
 
-At the start of your next turn, the keeper tells you what move the monster is going to use after your action
+### ☐ Teleport
 
-### Effective
+You are automatically successful in a run attempt.
 
- |   Super| Not Very| Not|
- |--------|---------|----|
- | ![](images/FightingIC_Big.webp) ![](images/PoisonIC_Big.webp) | ![](images/PsychicIC_Big.webp)         |    |
+When you attempt a teleport with other Pokemon,  roll  **+Special**
 
-
-### Passive
-
-At the beginning of each mystery, roll **+Special** to see what is revealed about your immediate future.
-
-On a 10+, the Keeper will reveal a useful detail about the coming mystery.
-
-On a 7-9 you get a vague hint about it.
-
-On a miss, something bad is going to happen to you.
-
----
-
-## Magic Room
+On a 10+ you all escape.  
+On a  7-9,  you  don’t  quite  manage  it. Either you are all separate or all get lost some how.  
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/PsychicIC_Big.webp)| ![](images/status.png)| NA |
 
+### ☐ Extrasensory
+
+On a hit, roll a D6. On a 1 the opponent flinches.
+
+| Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/PsychicIC_Big.webp)| ![](images/special.png)| 1 Harm |
+
+
+### ☐ Future sight
+
+The keeper tells you what move the monster is going to make before you or your next ally make an attack
+
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/PsychicIC_Big.webp)| ![](images/special.png)| 1 Harm |
+
+### ☐ Magic Room
+
 You can negate the effect of a single item for the rest of the combat
 
-### Move
 
-After one minute, you conjure an entrance to an extra dimensional room. You, and any Pokemon you designate, can enter the extra dimensional room as long as you keep the entrance open. While closed, the entrance is invisible (and inaccessible) from the outside.
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/PsychicIC_Big.webp)| ![](images/status.png)| NA |
 
-Pokemon in the room can not use or be effected by, non combat psycic effects or any items.
+### ☐ Swift
 
----
-
-## Swift
+Can hit semi invulnerable Pokemon.  
+Ignore **Special Defense.**  
+Ignore **Defense.**  
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/NormalIC_Big.webp)| ![](images/special.png)| 1 Harm |
 
-Can hit semi invulnerable Pokemon.
-
-Ignore **Special Defense.**
-
-Ignore **Defense.**
-
-## Effective
-
- |   Super                        | Not Very| Not                         |
- |--------------------------------|---------|-----------------------------|
- | ![](images/RockIC_Big.webp)|         | ![](images/GhostIC_Big.webp)|
-
 ---
 
-## Psywave (You can not take this move)
+### Psywave (You can not take this move)
 
 This is a move for a future monster
 
@@ -207,4 +189,17 @@ Roll a d6, deals Harm = Roll * (Level-1). Re Roll anything less then a 2.
  | ![](images/FightingIC_Big.webp) ![](images/PoisonIC_Big.webp) | ![](images/PsychicIC_Big.webp)         |    |
 
 
+---
+
+### Type ![](images/PsychicIC_Big.webp)
+
+ |   Super| Not Very| Not|
+ |--------|---------|----|
+ | ![](images/FightingIC_Big.webp) ![](images/PoisonIC_Big.webp) | ![](images/PsychicIC_Big.webp)         |    |
+
+### Type ![](images/NormalIC_Big.webp)
+
+ |   Super                        | Not Very| Not                         |
+ |--------------------------------|---------|-----------------------------|
+ | ![](images/RockIC_Big.webp)|         | ![](images/GhostIC_Big.webp)|
 

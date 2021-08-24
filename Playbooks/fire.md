@@ -12,10 +12,10 @@
 
 ### Description (Damage Caster)
 
-Burn baby burn disco inferno. Sort of a shoot first deal with the consequences later type of Pokemon. You can cause insane amounts of damage and destruction but often at a cost.
+Burn baby burn disco inferno. Sort of a shoot first deal with the consequences later type of Pokemon. You can cause large amounts of damage and destruction but often at a cost.
 
 
-They have big attacks that use **Special**, and can be week to **Special Defense**. They can also be a bit of a bully, able to effectivly **Manipulate Someone** with **Tough**
+They have big attacks that use **Special**, and can be weak to **Special Defense**. They can also be a bit of a bully, able to effectivly **Manipulate Someone** with **Tough**
  
 ### Stats
 
@@ -37,19 +37,46 @@ Okay ☐☐☐|☐☐☐☐ Dying
 
 Unstable: ☐
 
+---
 
-
-### Ability
-
-**Burn Immune:** You can not be burned.
-
-**Reckless:** +1 to **act under pressure** when dealing with the consequences of your special moves.
-
-# Moves
+## Abilities
 
 ---
 
-## *Flamethrower
+### ☒ Burn Immune 
+> You can not be burned.
+
+### ☐ Reckless 
+> +1 to **act under pressure** when dealing with the consequences of your class actions or attacks.
+
+### ☐ Heatproof
+> You are immune to fire (Your moves can still damage you)
+
+### ☐ Slash
+
+> +1 to rolls when using **Manipulate Someone**
+
+---
+
+## Actions
+
+---
+
+### ☐ Flamethrower (Requires having a fire type special attak)
+
+> You can create fire in a controlled way (like to light a candle or burn down a house).
+
+### ☐  Will-O-Wisp
+
+> Use can use **Tough** instead of **Charm** to **Manipulate Someone**
+
+---
+
+## Attacks
+
+---
+
+### ☒ Flamethrower
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
@@ -77,106 +104,72 @@ Pick as many Benifits as you want. For each Benifit, you must pick a Drawback
 
 ☐ On a miss the keeper holds a hard move
 
-
-### Effective
-
- |   Super                                                                           | Not Very                                                                                                           | Not|
- |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
- | ![](images/BugIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/IceIC_Big.webp)|  ![](images/FireIC_Big.webp) ![](images/RockIC_Big.webp) ![](images/WaterIC_Big.webp) ![](images/DragonIC_Big.webp)|    |
-
-
-### Move
-
-You can create fire in a controlled way (like to light a candle or burn down a house).
-
 ---
 
 ## Wild Fire
-
- | Type        | Category   | Damage      |
- | ----------- | ------------ | ----------- |
- | ![](images/FireIC_Big.webp)| ![](images/special.png)| 1 Harm |
 
   On a 7+ Creates a "fire wall" providing +1 **Defence**. When using physical attacks through the "fire wall" roll a d6, on a 1 or 2 inflicts burn.
 
   On a miss, this attack draws immediate, unwelcome attention.
 
-### Effective
 
- |   Super                                                                           | Not Very                                                                                                           | Not|
- |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
- | ![](images/BugIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/IceIC_Big.webp)|  ![](images/FireIC_Big.webp) ![](images/RockIC_Big.webp) ![](images/WaterIC_Big.webp) ![](images/DragonIC_Big.webp)|    |
+ | Type        | Category   | Damage      |
+ | ----------- | ------------ | ----------- |
+ | ![](images/FireIC_Big.webp)| ![](images/special.png)| 1 Harm |
 
 ---
 
 ## Firepunch
 
+If this move hits, roll a d6. On a 1 or 2 the target is burned.
+
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/FireIC_Big.webp)| ![](images/physical.png)| 1 Harm|
-
-  If this move hits, roll a d6. On a 1 or 2 the target is burned.
-
-
-### Effective
-
- |   Super                                                                           | Not Very                                                                                                           | Not|
- |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
- | ![](images/BugIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/IceIC_Big.webp)|  ![](images/FireIC_Big.webp) ![](images/RockIC_Big.webp) ![](images/WaterIC_Big.webp) ![](images/DragonIC_Big.webp)|    |
-
-
 
 ---
 
 ## Fiery Dance
 
+For the rest of the battle, roll your attacks at +1 **Special** and  +1 to **Act Under Pressure** (Does not stack)
+
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/FireIC_Big.webp)| ![](images/status.png)| |
- 
-Your next attack deals +1 harm
-
-
-### Passive
-
-  You are immune to fire (Your moves can still damage you)
 
 ---
 
 ## Will-O-Wisp 
 
+Causes target to be burned
+
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/FireIC_Big.webp)| ![](images/status.png)| NA |
 
-Causes target to be burned
-
-
-### Move
-
-Use can use **Tough** instead of **Charm** to **Manipulate Someone**
 
 ---
 
 ## Slash
 
+On a 10+ you may also take or give +1 forward.
+
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 1 Harm |
 
+---
 
-  On a 10+ you may also take +1 forward.
+### Type ![](images/FireIC_Big.webp)
 
+ |   Super                                                                           | Not Very                                                                                                           | Not|
+ |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----|
+ | ![](images/BugIC_Big.webp) ![](images/GrassIC_Big.webp) ![](images/IceIC_Big.webp)|  ![](images/FireIC_Big.webp) ![](images/RockIC_Big.webp) ![](images/WaterIC_Big.webp) ![](images/DragonIC_Big.webp)|    |
 
-### Effective
+### Type ![](images/NormalIC_Big.webp)
 
  |   Super                        | Not Very| Not                         |
  |--------------------------------|---------|-----------------------------|
  | ![](images/RockIC_Big.webp)|         | ![](images/GhostIC_Big.webp)|
 
-### Passive
-
-+1 to rolls when using **Manipulate Someone**
-
 ---
-
