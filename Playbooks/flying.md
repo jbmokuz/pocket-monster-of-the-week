@@ -123,8 +123,6 @@ Your opponent takes two moves against you. However for the first one you are sem
 | ----------- | ------------ | ----------- |
 | ![](images/FlyingIC_Big.webp)| ![](images/physical.png)| 2 Harm |
 
----
-
 ### ☐ Dragon Dance 
 
 Your next attack deals +1 harm
@@ -133,7 +131,6 @@ Your next attack deals +1 harm
 | ----------- | ------------ | ----------- |
 | ![](images/DragonIC_Big.webp)| ![](images/status.png)| NA |
 
----
 
 ### ☐ Aerial Ace (Requires the ability to Fly)
 
@@ -143,7 +140,6 @@ Your next attack deals +1 harm
 | ----------- | ------------ | ----------- |
 | ![](images/FlyingIC_Big.webp)| ![](images/physical.png)| 1 Harm |
 
----
 
 ### ☐ Brave Bird
 
@@ -153,8 +149,6 @@ Take one harm whenever you use this move
 | ----------- | ------------ | ----------- |
 | ![](images/FlyingIC_Big.webp)| ![](images/physical.png)| 3 Harm |
 
----
-
 ### ☐ Acrobatics (Requires the ability to Fly)
 
 On a 10+ you can move the target where you want to
@@ -162,8 +156,6 @@ On a 10+ you can move the target where you want to
 | Type        | Category   | Damage      |
 | ----------- | ------------ | ----------- |
 | ![](images/FlyingIC_Big.webp)| ![](images/physical.png)| 1 Harm |
-
----
 
 ### ☐ Quick Attack
 
@@ -173,8 +165,6 @@ Limit twice per action. Can not crit.
 | Type        | Category   | Damage      |
 | ----------- | ------------ | ----------- |
 | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 1 Harm |
-
----
 
 ### ☐ Twister
 

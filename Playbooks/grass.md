@@ -10,7 +10,9 @@
 
 **Grass** and **Bug** Pokemon are kind of a mixed bag. There are a lot of options, but perhaps nothing too single foucused. They also have sleep, in a lot of causes the best status effect move. 
 
-**Grass** & **Bug** pokemon can have amazing survivability if they have a source of healing. They also have the ability to move pokemon around.
+**Grass** pokemon can have amazing survivability if they have a source of healing. They also have the ability to move pokemon around.
+
+**Bug** pokemon...
 
 They use **Tough** to precisely cut and also move Pokemon around where they want them. Also **Cool** can be used for good first impressions
 
@@ -58,8 +60,12 @@ Unstable: ☐
 
 ---
 
-### ☐ Chlorophyll  
+![](images/GrassIC_Big.webp)
+
+### ☒ Chlorophyll  
 > Any time your harm gets healed, heal an extra point. Additionally you can never be unstable in full sunlight.
+
+![](images/BugIC_Big.webp)
 
 ### ☐ Sniper  
 > Your Crits deal +2 Harm instead of +1

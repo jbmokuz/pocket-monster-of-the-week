@@ -39,7 +39,8 @@ Unstable: ☐
 
 ---
 
-## Abilities
+## Abilities 
+Pick one extra abiliy during pokemon creation
 
 ---
 
@@ -70,6 +71,15 @@ Unstable: ☐
 
 > Use can use **Tough** instead of **Charm** to **Manipulate Someone**
 
+### ☐ Smokescreen
+
+> You can provide cover to hide or escape with
+
+> rool +**Clever**
+
+> 10+ Youre smokescreen covers what you want it to. Pokemon/Things inside of it can not be detected by normal means  
+> 7-9 Youre smokescreen works, but perhaps there is some unwanted sideffect or it doesn't quite cover what you want  
+> Miss keeper makes a hard move. Likely there is fire envolved some how  
 ---
 
 ## Attacks
@@ -106,7 +116,7 @@ Pick as many Benifits as you want. For each Benifit, you must pick a Drawback
 
 ---
 
-## Wild Fire
+### ☐ Wild Fire
 
   On a 7+ Creates a "fire wall" providing +1 **Defence**. When using physical attacks through the "fire wall" roll a d6, on a 1 or 2 inflicts burn.
 
@@ -117,9 +127,8 @@ Pick as many Benifits as you want. For each Benifit, you must pick a Drawback
  | ----------- | ------------ | ----------- |
  | ![](images/FireIC_Big.webp)| ![](images/special.png)| 1 Harm |
 
----
 
-## Firepunch
+### ☐ Firepunch
 
 If this move hits, roll a d6. On a 1 or 2 the target is burned.
 
@@ -127,9 +136,8 @@ If this move hits, roll a d6. On a 1 or 2 the target is burned.
  | ----------- | ------------ | ----------- |
  | ![](images/FireIC_Big.webp)| ![](images/physical.png)| 1 Harm|
 
----
 
-## Fiery Dance
+### ☐ Fiery Dance
 
 For the rest of the battle, roll your attacks at +1 **Special** and  +1 to **Act Under Pressure** (Does not stack)
 
@@ -137,9 +145,8 @@ For the rest of the battle, roll your attacks at +1 **Special** and  +1 to **Act
  | ----------- | ------------ | ----------- |
  | ![](images/FireIC_Big.webp)| ![](images/status.png)| |
 
----
 
-## Will-O-Wisp 
+### ☐ Will-O-Wisp 
 
 Causes target to be burned
 
@@ -148,9 +155,7 @@ Causes target to be burned
  | ![](images/FireIC_Big.webp)| ![](images/status.png)| NA |
 
 
----
-
-## Slash
+### ☐ Slash
 
 On a 10+ you may also take or give +1 forward.
 

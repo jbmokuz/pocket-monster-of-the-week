@@ -89,15 +89,13 @@ Unstable: ☐
 
 ### ☐ Extrasensory
 
-You can tell when something bad is happening (or just about to happen) somewhere that you aren't.
+> You can tell when something bad is happening (or just about to happen) somewhere that you aren't.
 
-roll **+Special**.
+> roll **+Special**.
 
-10+ You knew where you needed to go, just in time to get there.
-
-7-9: You get there late – in time to intervene, but not prevent it altogether.
-
-Miss: You get there just in time to be in trouble yourself.
+> 10+ You knew where you needed to go, just in time to get there.  
+> 7-9: You get there late – in time to intervene, but not prevent it altogether.  
+> Miss: You get there just in time to be in trouble yourself.
 
 
 ### ☐ Future sight

@@ -100,17 +100,16 @@ Unstable: ☐
 
 ---
 
-## ☒ Thunder
+### ☒ Thunder
 
 Roll at -1 **Special**  
-If you roll a 10+ roll a d6. On a 1, 2, or 3 causes paralysis  
+If you roll a 10+, roll a d6. On a 1, 2, or 3 causes paralysis  
 You can hit Pokemon in the semi-invulerable state of fly  
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/ElectricIC_Big.webp) | ![](images/special.png)| 2 Harm|
 
----
 
 ### ☐ Quick Attack
 
@@ -121,7 +120,6 @@ Limit twice per action. Can not crit.
  | ----------- | ------------ | ----------- |
  | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 1 Harm |
 
----
 
 ### ☐ Eerie Impulse
 
@@ -131,15 +129,14 @@ Does something...
  | ----------- | ------------ | ----------- |
  | ![](images/ElectricIC_Big.webp) | ![](images/status.png)| |
 
----
 ### ☐ Electroweb
 
+On at +10, you take one less harm from your opponet's attack
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
  | ![](images/ElectricIC_Big.webp) | ![](images/special.png)| 1 Harm|
 
----
 
 ### ☐ Thunder Wave
 
@@ -149,7 +146,6 @@ Causes effected target to be paralyzed
  | ----------- | ------------ | ----------- |
  | ![](images/ElectricIC_Big.webp) | ![](images/status.png)| NA |
 
----
 
 ### ☐ Flash
 
