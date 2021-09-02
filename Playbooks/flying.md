@@ -102,9 +102,9 @@ Unstable: ☐
 
 > roll **+Cool**
 
-> 10+ hold 2
-> 7-9: hold 1
-> Miss: keeper holds a hard move
+> 10+ hold 2  
+> 7-9: hold 1  
+> Miss: keeper holds a hard move  
 
 * Know where you need to be
 * Get prepared and ready.
@@ -134,7 +134,7 @@ Your next attack deals +1 harm
 
 ### ☐ Aerial Ace (Requires the ability to Fly)
 
-
+On a +10, you can move pokemon you are attacking, where you want it.
 
 | Type        | Category   | Damage      |
 | ----------- | ------------ | ----------- |
@@ -151,7 +151,7 @@ Take one harm whenever you use this move
 
 ### ☐ Acrobatics (Requires the ability to Fly)
 
-On a 10+ you can move the target where you want to
++1 harm if you are not holding an item
 
 | Type        | Category   | Damage      |
 | ----------- | ------------ | ----------- |

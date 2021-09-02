@@ -50,7 +50,7 @@ Pick one extra abiliy during pokemon creation
 ### ☐ Reckless 
 > +1 to **act under pressure** when dealing with the consequences of your class actions or attacks.
 
-### ☐ Heatproof
+### ☐ Heatproof (Requires Burn Immunity)
 > You are immune to fire (Your moves can still damage you)
 
 ### ☐ Slash

@@ -12,7 +12,7 @@
 
 **Grass** pokemon can have amazing survivability if they have a source of healing. They also have the ability to move pokemon around.
 
-**Bug** pokemon...
+**Bug** pokemon are good at finding hiden things or have better crits.
 
 They use **Tough** to precisely cut and also move Pokemon around where they want them. Also **Cool** can be used for good first impressions
 

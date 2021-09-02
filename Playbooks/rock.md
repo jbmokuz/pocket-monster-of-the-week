@@ -61,7 +61,7 @@ Unstable: ☐
 ### ![](images/FightingIC_Big.webp)
 
 ### ☐ Signature Move 
-> Pick a physical move. You get +1 when attacking with that move.
+> Pick a physical move. You roll at +1 tough or special when attacking with that move.
 
 ### ☐ What Does Not Kill Me... 
 > If you have suffered harm in a fight, you gain +1 ongoing until the fight is over.

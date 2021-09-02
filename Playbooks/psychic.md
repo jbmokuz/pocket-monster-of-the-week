@@ -50,7 +50,9 @@ Unstable: ☐
 
 ---
 
-## Actions
+## Actions  
+
+Pick one extra action during pokemon creation
 
 ---
 
@@ -85,7 +87,7 @@ Unstable: ☐
 
 > After one minute, you conjure an entrance to an extra dimensional room. You, and any Pokemon you designate, can enter the extra dimensional room as long as you keep the entrance open. While closed, the entrance is invisible (and inaccessible) from the outside.
 
-> Pokemon in the room can not use or be effected by, non combat psycic effects or any items.
+> Pokemon in the room can not use or be effected by, non combat psychic effects or any items.
 
 ### ☐ Extrasensory
 
@@ -105,14 +107,26 @@ Unstable: ☐
 > On a 10+, the Keeper will reveal a useful detail about the coming mystery.  
 > On a 7-9 you get a vague hint about it.  
 > On a miss, something bad is going to happen to you.  
+
+### ☐ Amnesia
+
+> You can cause a pokemon to forget some important piece of information or event for a time.
+
+> You pick an event for piece of infomation and roll **+Special**
+
+> 10+ The target pokemon forgets eveything about it for 1 hour  
+> 7-9: The target pokemon vaguely remembers something about an event or piece of information for an hour  
+> Miss: The keeper makes a hard move  
+
 ---
 
 ## Attacks
 
 ---
-### ☐ Miracle Eye
+### ☐ Disable
 
-All changes to the targets evasion are ignored for the rest of the encounter.
+Disables one of a pokemons moves at random.  
+Roll a d6 to determin the disable duration  
 
 
  | Type        | Category   | Damage      |
