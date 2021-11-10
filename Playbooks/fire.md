@@ -21,11 +21,11 @@ They have big attacks that use **Special**, and can be weak to **Special Defense
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
- | **Cute**  | | Manipulate Someone <br/> |
- | **Cool**  | | Act Under Pressure <br/> Help Out |
- | **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | | Normal Attacks <br/> Protect Someone |
- | **Special** | | Special Attacks <br/> |
+ | **Cute**  | 1 | Manipulate Someone <br/> |
+ | **Cool**  | 0 | Act Under Pressure <br/> Help Out |
+ | **Clever**| -1 | Investigate a Mystery <br/> Read a Bad Situation |
+ | **Tough** | 1 | Normal Attacks <br/> Protect Someone |
+ | **Special** | 2 | Special Attacks <br/> |
 
 **Luck**
 
@@ -48,7 +48,7 @@ Pick one extra abiliy during pokemon creation
 > You can not be burned.
 
 ### ☐ Reckless 
-> +1 to **act under pressure** when dealing with the consequences of your class actions or attacks.
+> +1 to **act under pressure** when dealing with the consequences of your class actions or attacks. Works with Flamethrower drawback.
 
 ### ☐ Heatproof (Requires Burn Immunity)
 > You are immune to fire (Your moves can still damage you)
@@ -110,7 +110,7 @@ Pick as many Benifits as you want. For each Benifit, you must pick a Drawback
 
 ☐ On a 7-9 deal one less harm
 
-☐ Requires a sucessful **Act under Pressue** roll to use
+☐ Requires a sucessful **Act under Pressue** roll to use. Works with Reckless
 
 ☐ On a miss the keeper holds a hard move
 

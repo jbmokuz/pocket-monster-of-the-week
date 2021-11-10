@@ -21,11 +21,11 @@ They require staying ***Cool*** to do a that seeking around. All of there attack
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
- | **Cute**  | | Manipulate Someone <br/> |
- | **Cool**  | | Act Under Pressure <br/> Help Out |
- | **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | | Normal Attacks <br/> Protect Someone |
- | **Special** | | Special Attacks <br/> |
+ | **Cute**  | 2 | Manipulate Someone <br/> |
+ | **Cool**  | 2 | Act Under Pressure <br/> Help Out |
+ | **Clever**| 1 | Investigate a Mystery <br/> Read a Bad Situation |
+ | **Tough** | -1 | Normal Attacks <br/> Protect Someone |
+ | **Special** | -1 | Special Attacks <br/> |
 
 **Luck**
 

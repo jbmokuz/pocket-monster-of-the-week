@@ -17,11 +17,11 @@ They require ***Cool*** to perform there daring aerial acrobatics. There most da
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
- | **Cute**  | | Manipulate Someone <br/> |
- | **Cool**  | | Act Under Pressure <br/> Help Out |
- | **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | | Normal Attacks <br/> Protect Someone |
- | **Special** | | Special Attacks <br/> |
+ | **Cute**  | -1 | Manipulate Someone <br/> |
+ | **Cool**  | 2 | Act Under Pressure <br/> Help Out |
+ | **Clever**| 1 | Investigate a Mystery <br/> Read a Bad Situation |
+ | **Tough** | 1| Normal Attacks <br/> Protect Someone |
+ | **Special** | 0 | Special Attacks <br/> |
 
 **Luck**
 

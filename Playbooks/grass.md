@@ -21,11 +21,11 @@ They use **Tough** to precisely cut and also move Pokemon around where they want
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
- | **Cute**  | | Manipulate Someone <br/> |
- | **Cool**  | | Act Under Pressure <br/> Help Out |
- | **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | | Normal Attacks <br/> Protect Someone |
- | **Special** | | Special Attacks <br/> |
+ | **Cute**  | 0 | Manipulate Someone <br/> |
+ | **Cool**  | 1 | Act Under Pressure <br/> Help Out |
+ | **Clever**| -1 | Investigate a Mystery <br/> Read a Bad Situation |
+ | **Tough** | 2 | Normal Attacks <br/> Protect Someone |
+ | **Special** | 1 | Special Attacks <br/> |
 
 **Luck**
 

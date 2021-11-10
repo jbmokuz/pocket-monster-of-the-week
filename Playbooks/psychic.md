@@ -20,11 +20,11 @@ Psychic Pokemon have many extremely useful abilities. They can sense the future 
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
- | **Cute**  | | Manipulate Someone <br/> |
- | **Cool**  | | Act Under Pressure <br/> Help Out |
- | **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | | Normal Attacks <br/> Protect Someone |
- | **Special** | | Special Attacks <br/> |
+ | **Cute**  | 0 | Manipulate Someone <br/> |
+ | **Cool**  |-1| Act Under Pressure <br/> Help Out |
+ | **Clever**| 1 | Investigate a Mystery <br/> Read a Bad Situation |
+ | **Tough** | -1 | Normal Attacks <br/> Protect Someone |
+ | **Special** | 1 | Special Attacks <br/> |
 
 **Luck**
 
@@ -46,7 +46,10 @@ Unstable: ☐
 ### ☒ Telepathy 
 > you can read people’s thoughts and put words in their mind. 
 
-> You can **Investigate a Mystery** or **Read a Bad Situation**  without needing to actually talk. You can also **Manipulate Someone** without speaking. You still roll moves as normal, except people will not expect the weirdness of your mental communication.
+> You can **Investigate a Mystery** or **Read a Bad Situation**  without needing to actually talk. You can also **Manipulate Someone** without speaking. You still roll moves as normal, except people will not expect the weirdness of your mental communication.  
+
+> You also get +2 to all special rolls when taking **Actions**
+
 
 ---
 

@@ -21,11 +21,11 @@ While at first glance, normal Pokemon are the model support type Pokemon. Howeve
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
- | **Cute**  | | Manipulate Someone <br/> |
- | **Cool**  | | Act Under Pressure <br/> Help Out |
- | **Clever**| | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | | Normal Attacks <br/> Protect Someone |
- | **Special** | | Special Attacks <br/> |
+ | **Cute**  | 1 | Manipulate Someone <br/> |
+ | **Cool**  | 1 | Act Under Pressure <br/> Help Out |
+ | **Clever**| 1 | Investigate a Mystery <br/> Read a Bad Situation |
+ | **Tough** | 0 | Normal Attacks <br/> Protect Someone |
+ | **Special** | 0 | Special Attacks <br/> |
 
 **Luck**
 
