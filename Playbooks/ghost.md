@@ -10,9 +10,9 @@
  |------------------------------|----------------------------------------------------------|---------------------------------------------------------------|
  |  ![](images/GhostIC_Big.webp)|  ![](images/BugIC_Big.webp) ![](images/PoisonIC_Big.webp)|  ![](images/FightingIC_Big.webp) ![](images/NormalIC_Big.webp) ![](images/GroundIC_Big.webp)|
 
-### Description (Rouge)
+### Description (Rogue)
 
-Ghost type Pokemon are the seek around rouge type Pokemon. They can break into places, steal things and even go invisible. They also are immmune to a lot of attacks, but have a hard time hitting **Psychic** and **Normal** Pokemon with out taking **Poision Jab**.
+Ghost type Pokemon are the seek around rogue type Pokemon. They can break into places, steal things and even go invisible. They also are immmune to a lot of attacks, but have a hard time hitting **Psychic** and **Normal** Pokemon with out taking **Poision Jab**.
 
 They require staying ***Cool*** to do a that seeking around. All of there attacks are physical, requiring ***Tough*** but posses no real need for ***Special***
 
