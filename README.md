@@ -8,7 +8,7 @@
 
 [Flying/Dragon](Playbooks/flying.md) - Mobility
 
-[Ghost](Playbooks/ghost.md) - Rouge
+[Ghost](Playbooks/ghost.md) - Rogue
 
 [Electric](Playbooks/electric.md) - Intel/Connections
 
@@ -29,40 +29,17 @@ Players must figure out how to defeat unbeatable Legendary Pokemon by overcoming
 
 A player picks a Pokemon corresponding to the Playbook "Type" they have selected. For example a player could play a Pikachu and would select the "Electric" playbook.
 
-Each player picks 1 Ability, 2 Moves and 3 Attacks from there playbook.
+Each player picks 1 Ability, 2 Moves and 3 Attacks from their playbook.
 
-## Stats Reskin
+## Attacking
 
-Cute = Charm
+Special attack ![](Playbooks/images/special.png): Uses **Special**. **Special Defense** reduces harm the same way as Armor did.
 
-Cool = Cool
+Psychical attack ![](Playbooks/images/physical.png): Uses **Tough**. **Defense** reduces harm the same way as Armor did.
 
-Clever = Sharp
+Status attack ![](Playbooks/images/status.png): Does not require a stat roll to use and often doesn't deal damage.
 
-Tough = Tough
-
-Special = Weird
-
-
-## Moves?
-
-Moves are an overloaded term, so to avoid confusion...
-
-Monster of the week **Moves** are called **Actions**
-
-Pokemon **Moves** are called **Attacks**
-
-## Kick Some Ass change
-
-Kick Some Ass is now replaced with *Attacks*. *Moves* are now called *Attacks* (To avoid confusion with the pokemon term move). Each *Attack* has a type that dictates what skill to use.
-
-Special attack ![](Playbooks/images/special.png): Uses **Special** (Reskined Weird). **Special Defense** reduces harm the same way as Armor did.
-
-Psychical attack ![](Playbooks/images/physical.png): Uses **Tough** (Reskined Tough). **Defense** reduces harm the same way as Armor did.
-
-Status attack ![](Playbooks/images/status.png): Does not require a stat roll to use and often doesn't deal damage. 
-
-On the roll of a 10+ with an attack, the player is said to have gotten a critical hit and deals +1 harm. There is no longer the ability to chose an extra effect on a success.
+On the roll of a 10+ with an attack, the attack is a critical hit and deals +1 harm.
 
 ## Effectiveness charts
 
@@ -85,7 +62,7 @@ Here are some examples.
 * Gem - Deals 1 extra harm on hit and is consumed
 * Mail - A letter
 
-Pokemon do not start with an item, unless there playbook states that they do.
+Pokemon do not start with an item, unless their playbook states that they do.
 
 ## Misc Character creation
 
