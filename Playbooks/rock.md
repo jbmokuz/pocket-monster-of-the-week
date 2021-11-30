@@ -20,9 +20,9 @@ All you need is **Tough** to punch all the things! **Clever** can be used with *
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
  | **Cute**  | -1| Manipulate Someone <br/> |
- | **Cool**  | 1| Act Under Pressure <br/> Help Out |
- | **Clever**| 0 | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | 2| Normal Attacks <br/> Protect Someone |
+ | **Cool**  | 0| Act Under Pressure <br/> Help Out |
+ | **Clever**| 1 | Investigate a Mystery <br/> Read a Bad Situation |
+ | **Tough** | 2| Physical Attacks <br/> Protect Someone |
  | **Special** | 1 | Special Attacks <br/> |
 
 **Luck**
@@ -97,10 +97,10 @@ Unstable: ☐
 
 > Roll **+Tough**
 
-> 12+: Hold 3
-> 10+: Hold 2
-> 7-9: Hold 1
-> Miss: Your charging into a dangerous situation doesn't work out so well
+> 12+: Hold 3  
+> 10+: Hold 2  
+> 7-9: Hold 1  
+> Miss: Your charging into a dangerous situation doesn't work out so well  
 
 * Inflict +1 harm on your first attack
 * Reduce some ones harm by 1
@@ -122,12 +122,12 @@ Unstable: ☐
 
 ### ☒ Strength
 
-On a +10, you can move pokemon you are attacking, where you want.
+On a +10, you can move pokemon you are attacking where you want.
 
 
   | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 1 Harm |
+ | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 2 Harm |
 
 
 ### ☐ Revenge
@@ -136,12 +136,12 @@ You opponent moves first. If they do not deal damage, this attack automatically 
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/FightingIC_Big.webp)| ![](images/physical.png)| 2 Harm |
+ | ![](images/FightingIC_Big.webp)| ![](images/physical.png)| 3 Harm |
 
 
 ### ☐ Close Combat
 
-You lose 2 **Defense** for the rest of the combat. Can not use if you do not have at least 2 **Defense**
+You lose 1 **Defense** for the rest of the combat. Can not use if you do not have at least 1 **Defense**
 
 
  | Type        | Category   | Damage      |
@@ -156,7 +156,7 @@ If you miss, take 1 damage (Ignore **Defense**)
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/FightingIC_Big.webp)| ![](images/physical.png)| 2 Harm |
+ | ![](images/FightingIC_Big.webp)| ![](images/physical.png)| 3 Harm |
 
 
 ### ☐ Rollout
@@ -169,13 +169,13 @@ You can use this move no mater how much harm you have taken (even if you have fe
  | ![](images/RockIC_Big.webp)| ![](images/physical.png)| 1 Harm |
 
 
-###  Ancient Power
+### ☐ Ancient Power
 
 You gain 1 **Defense** (Max 2) for the rest of the combat
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/RockIC_Big.webp)| ![](images/special.png)| 1 Harm |
+ | ![](images/RockIC_Big.webp)| ![](images/special.png)| 2 Harm |
 
 ---
 

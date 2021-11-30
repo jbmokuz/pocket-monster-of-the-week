@@ -24,7 +24,7 @@ While at first glance, normal Pokemon are the model support type Pokemon. Howeve
  | **Cute**  | 1 | Manipulate Someone <br/> |
  | **Cool**  | 1 | Act Under Pressure <br/> Help Out |
  | **Clever**| 1 | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | 0 | Normal Attacks <br/> Protect Someone |
+ | **Tough** | 0 | Physical Attacks <br/> Protect Someone |
  | **Special** | 0 | Special Attacks <br/> |
 
 **Luck**

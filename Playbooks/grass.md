@@ -24,7 +24,7 @@ They use **Tough** to precisely cut and also move Pokemon around where they want
  | **Cute**  | 0 | Manipulate Someone <br/> |
  | **Cool**  | 1 | Act Under Pressure <br/> Help Out |
  | **Clever**| -1 | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | 2 | Normal Attacks <br/> Protect Someone |
+ | **Tough** | 2 | Physical Attacks <br/> Protect Someone |
  | **Special** | 1 | Special Attacks <br/> |
 
 **Luck**
@@ -89,10 +89,6 @@ Unstable: ☐
 > 7-9: You severely weaken what you are trying to cut down, but it takes a while to complete. This could draw unwanted attention in some situations.  
 > Miss: You fail to destroy what you are cutting and draw unwanted attention immediately  
 
-### ☐ Sleep Powder
-
-> You may use ***Tough*** instead of ***Cool*** to **Act under pressure**
-
 ### ☐ Vine Whip
 
 > You can grab any Pokemon or object (10 lbs or less) up to 30 ft away to move, lift, throw or grapple it.
@@ -110,6 +106,11 @@ Unstable: ☐
 > 10+: They are immediately friendly to you and will be more likely to help you out  
 > 7-9: They are friendly too you but will not necessarily help you out for no reason  
 > Miss: They don't like you at all and will likely not help you with out a lot of convincing
+
+### ☐ Sleep Powder
+
+> You may use ***Tough*** instead of ***Cool*** to **Act under pressure**
+
 ---
 
 ## Attacks

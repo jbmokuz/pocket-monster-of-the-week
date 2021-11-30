@@ -24,7 +24,7 @@ They have big attacks that use **Special**, and can be weak to **Special Defense
  | **Cute**  | 1 | Manipulate Someone <br/> |
  | **Cool**  | 0 | Act Under Pressure <br/> Help Out |
  | **Clever**| -1 | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | 1 | Normal Attacks <br/> Protect Someone |
+ | **Tough** | 1 | Physical Attacks <br/> Protect Someone |
  | **Special** | 2 | Special Attacks <br/> |
 
 **Luck**
@@ -134,7 +134,7 @@ If this move hits, roll a d6. On a 1 or 2 the target is burned.
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/FireIC_Big.webp)| ![](images/physical.png)| 1 Harm|
+ | ![](images/FireIC_Big.webp)| ![](images/physical.png)| 2 Harm|
 
 
 ### ☐ Fiery Dance
@@ -161,7 +161,7 @@ On a 10+ you may also take or give +1 forward.
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 1 Harm |
+ | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 2 Harm |
 
 ---
 

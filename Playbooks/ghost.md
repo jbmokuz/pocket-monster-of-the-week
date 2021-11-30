@@ -21,10 +21,10 @@ They require staying ***Cool*** to do a that seeking around. All of there attack
 
  |      Ability                   | Score | Moves that use ability                         |
  |--------------------------------|---------|-----------------------------|
- | **Cute**  | 2 | Manipulate Someone <br/> |
+ | **Cute**  | 1 | Manipulate Someone <br/> |
  | **Cool**  | 2 | Act Under Pressure <br/> Help Out |
  | **Clever**| 1 | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | -1 | Normal Attacks <br/> Protect Someone |
+ | **Tough** | 0 | Physical Attacks <br/> Protect Someone |
  | **Special** | -1 | Special Attacks <br/> |
 
 **Luck**
@@ -42,7 +42,7 @@ Unstable: ☐
 ---
 
 ### ☒ Levitate   
-> You can float up to 10ft off the ground. You may move freely through solid objects. You are Immune to ground type moves.
+> You can float up to 10ft off the ground. You are Immune to ground type moves.
 
 ### ☐ Cursed Body  
 > Pokemon may not attack you with the same attack twice in a row (even if they attack another target between attacks)

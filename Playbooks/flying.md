@@ -20,7 +20,7 @@ They require ***Cool*** to perform there daring aerial acrobatics. There most da
  | **Cute**  | -1 | Manipulate Someone <br/> |
  | **Cool**  | 2 | Act Under Pressure <br/> Help Out |
  | **Clever**| 1 | Investigate a Mystery <br/> Read a Bad Situation |
- | **Tough** | 1| Normal Attacks <br/> Protect Someone |
+ | **Tough** | 1| Physical Attacks <br/> Protect Someone |
  | **Special** | 0 | Special Attacks <br/> |
 
 **Luck**
