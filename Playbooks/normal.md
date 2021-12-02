@@ -59,6 +59,12 @@ Unstable: ☐
 
 > You may take one action (excludes moves that are checked by default) from another playbook. You still need to meet the requirements to take that action.
 
+.  
+.  
+.  
+.  
+.  
+
 ### ☐ Sing
 
 > Roll **+Cute**.
@@ -134,6 +140,9 @@ Unstable: ☐
  | ----------- | ------------ | ----------- |
  | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 1 Harm |
 
+.  
+.  
+.  
 
 ### ☐ Rest
 

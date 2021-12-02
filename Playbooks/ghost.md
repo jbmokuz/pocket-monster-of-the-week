@@ -90,6 +90,10 @@ notice you taking it.
 
 You cannot steal Mail
 
+.  
+.  
+.  
+
 ### ☐ Confuse Ray  
 When rooling to manipulate someone, you may use ***Cool*** instead of ***Cute***  
 

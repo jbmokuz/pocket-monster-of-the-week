@@ -44,7 +44,7 @@ Pick one extra abiliy during pokemon creation
 
 ---
 
-### ☒ Burn Immune 
+### ☐ Burn Immune 
 > You can not be burned.
 
 ### ☐ Reckless 
@@ -55,7 +55,8 @@ Pick one extra abiliy during pokemon creation
 
 ### ☐ Slash
 
-> +1 to rolls when using **Manipulate Someone**
+> +1 to rolls when using **Manipulate Someone**  
+> If you miss, the keeper makes a hard move
 
 ---
 
@@ -69,7 +70,7 @@ Pick one extra abiliy during pokemon creation
 
 ### ☐  Will-O-Wisp
 
-> Use can use **Tough** instead of **Charm** to **Manipulate Someone**
+> Use can use **Tough** instead of **Cool** to **Act Under Pressure**
 
 ### ☐ Smokescreen
 
@@ -98,7 +99,7 @@ Pick as many Benifits as you want. For each Benifit, you must pick a Drawback
 
 ☐ Deal +1 Harm
 
-☐ Ignore **Sepcial Defense**
+☐ Ignore **Special Defense**
 
 ☐ Inflic burn on hit
 
@@ -106,9 +107,9 @@ Pick as many Benifits as you want. For each Benifit, you must pick a Drawback
 
 ### Drawbacks
 
-☐ On a 7-9 You take 1 harm ignore **Special Defense**
+☐ On a 1-9 You take 1 harm ignore **Special Defense**
 
-☐ On a 7-9 deal one less harm
+☐ On a 1-9 deal one less harm
 
 ☐ Requires a sucessful **Act under Pressue** roll to use. Works with Reckless
 
@@ -134,7 +135,7 @@ If this move hits, roll a d6. On a 1 or 2 the target is burned.
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/FireIC_Big.webp)| ![](images/physical.png)| 2 Harm|
+ | ![](images/FireIC_Big.webp)| ![](images/physical.png)| 1 Harm|
 
 
 ### ☐ Fiery Dance
@@ -161,7 +162,7 @@ On a 10+ you may also take or give +1 forward.
 
  | Type        | Category   | Damage      |
  | ----------- | ------------ | ----------- |
- | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 2 Harm |
+ | ![](images/NormalIC_Big.webp)| ![](images/physical.png)| 1 Harm |
 
 ---
 

@@ -138,6 +138,9 @@ You opponent moves first. If they do not deal damage, this attack automatically 
  | ----------- | ------------ | ----------- |
  | ![](images/FightingIC_Big.webp)| ![](images/physical.png)| 3 Harm |
 
+.  
+.  
+.  
 
 ### ☐ Close Combat
 

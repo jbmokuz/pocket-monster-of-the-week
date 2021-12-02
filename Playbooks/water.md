@@ -137,6 +137,9 @@ You have +1 **Defense** (Max +2) until your next turn.
 
 ---
 
+.  
+.  
+
 ## ☐ Liquidation
 
  | Type        | Category   | Damage      |
