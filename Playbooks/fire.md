@@ -44,7 +44,7 @@ Pick one extra abiliy during pokemon creation
 
 ---
 
-### ☐ Burn Immune 
+### ☒ Burn Immune 
 > You can not be burned.
 
 ### ☐ Reckless 
